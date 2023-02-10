@@ -32,22 +32,15 @@ const getSalaryCapData = () => {
       if (count === 9)
         allTeams[currentTeam]["projectedPracticalCapSpace"] = title;
       if (count === 10) allTeams[currentTeam]["hardCap"] = title;
-      console.log("INDEX:", i);
-      console.log(title);
       if (count === 10) {
         count = 0;
         currentTeam++;
       } else {
         count++;
       }
-
-      // console.log("TITLE PARENT:", title)
-      // console.log("INDEX PARENT:", i)
     });
-    //   const teams = $('tr')
-    //   // console.log(teams.text())
-    //   console.log(teams.children('td').text())
-    console.log(allTeams);
+
+    console.log(allTeams); // remember to return this
   });
 };
 
