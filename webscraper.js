@@ -44,7 +44,7 @@ axios(url).then((response) => {
       count++;
     }
   });
-  fs.writeFile("teamSalaryCap.JSON", JSON.stringify(allTeams), (err) => {
+  fs.writeFile("teamSalaryCap.json", JSON.stringify(allTeams), (err) => {
     if (err) throw err;
     console.log("file successfully saved");
   });
