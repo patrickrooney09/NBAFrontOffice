@@ -1,7 +1,15 @@
-import axios from "axios";
-import cheerio from "cheerio";
-import { getInnerHTML } from "domutils";
+// import axios from "axios";
+// import cheerio from "cheerio";
+// import { getInnerHTML } from "domutils";
+const PORT = 8000;
+const axios = require("axios");
+const cheerio = require("cheerio");
+const express = require("express");
 
+const app = express();
+app.listen(PORT, () => {
+  console.log(`server running on port ${PORT}`);
+});
 const getSalaryCapData = async () => {
   const url = "https://www.spotrac.com/nba/cap/";
   let allTeams = {};
@@ -47,5 +55,3 @@ const getSalaryCapData = async () => {
   // console.log("ALLTEAMS:", allteams);
   // return allTeams;
 };
-
-export { getSalaryCapData };
