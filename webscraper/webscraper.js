@@ -1,11 +1,8 @@
-// import axios from "axios";
-// import cheerio, { load } from "cheerio";
-
 const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
 
-const url = "https://www.spotrac.com/nba/cap/";
+const url = "https://www.spotrac.com/nba/cap/2020";
 
 let allTeams = {};
 
@@ -34,20 +31,25 @@ axios(url).then((response) => {
     if (count === 6) allTeams[currentTeam]["deadCap"] = title;
     if (count === 7) allTeams[currentTeam]["totalCap"] = title;
     if (count === 8) allTeams[currentTeam]["capSpace"] = title;
-    if (count === 9)
-      allTeams[currentTeam]["projectedPracticalCapSpace"] = title;
-    if (count === 10) allTeams[currentTeam]["hardCap"] = title;
-    if (count === 10) {
+    // if (count === 9)
+    //   allTeams[currentTeam]["projectedPracticalCapSpace"] = title;
+    if (count === 9) allTeams[currentTeam]["hardCap"] = title;
+    if (count === 9) {
       count = 0;
       currentTeam++;
     } else {
       count++;
     }
   });
-  fs.writeFile("teamSalaryCap.json", JSON.stringify(allTeams), (err) => {
-    if (err) throw err;
-    console.log("file successfully saved");
-  });
+
+  fs.writeFile(
+    "salaryData/teamSalaries/2020teamSalaryCap.json",
+    JSON.stringify(allTeams),
+    (err) => {
+      if (err) throw err;
+      console.log("file successfully saved");
+    }
+  );
 });
 
 // setTimeout(() => {
