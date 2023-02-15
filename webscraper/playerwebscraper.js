@@ -2,52 +2,91 @@ const axios = require("axios");
 const cheerio = require("cheerio");
 const fs = require("fs");
 
-const url = "https://www.spotrac.com/nba/rankings";
-
 let allPlayers = {};
+let teamNames = [
+  "boston-celtics",
+  "brooklyn-nets",
+  "new-york-knicks",
+  "philadelphia-76ers",
+  "toronto-raptors",
+  "chicago-bulls",
+  "cleveland-cavaliers",
+  "detroit-pistons",
+  "indiana-pacers",
+  "milwaukee-bucks",
+  "atlanta-hawks",
+  "charlotte-hornets",
+  "miami-heat",
+  "orlando-magic",
+  "washington-wizards",
+  "denver-nuggets",
+  "minnesota-timberwolves",
+  "oklahoma-city-thunder",
+  "portland-trail-blazers",
+  "utah-jazz",
+  "golden-state-warriors",
+  "los-angeles-clippers",
+  "los-angeles-lakers",
+  "phoenix-suns",
+  "sacramento-kings",
+  "dallas-mavericks",
+  "houston-rockets",
+  "memphis-grizzlies",
+  "new-orleans-pelicans",
+  "san-antonio-spurs",
+];
 
-axios(url).then((response) => {
-  const html = response.data;
-  const $ = cheerio.load(html);
-  console.log(html);
-  // $(".xs-hide").each(function (i, ele) {
-  //   const title = $(ele).text();
+for (let i = 0; i < teamNames.length; i++) {
+  let currentTeam = teamNames[i];
+  const url = `https://www.spotrac.com/nba/rankings/2020-21/cap-hit/${currentTeam}`;
 
-  //   // console.log("TITLE:", title);
-  //   // console.log("INDEX:", i);
-  //   allTeams[i] = { name: title };
-  // });
+  axios(url).then((response) => {
+    const html = response.data;
 
-  // let count = 0;
-  // let currentTeam = 0;
-  // $("td.center").each(function (i, ele) {
-  //   const title = $(ele).text();
-  //   if (count === 0) allTeams[currentTeam]["rank"] = title;
-  //   if (count === 1) allTeams[currentTeam]["winPercentage"] = title;
-  //   if (count === 2) allTeams[currentTeam]["signedPlayers"] = title;
-  //   if (count === 3) allTeams[currentTeam]["avgAge"] = title;
-  //   if (count === 4) allTeams[currentTeam]["activeCap"] = title;
-  //   if (count === 5) allTeams[currentTeam]["activeCapTop3"] = title;
-  //   if (count === 6) allTeams[currentTeam]["deadCap"] = title;
-  //   if (count === 7) allTeams[currentTeam]["totalCap"] = title;
-  //   if (count === 8) allTeams[currentTeam]["capSpace"] = title;
-  //   // if (count === 9)
-  //   //   allTeams[currentTeam]["projectedPracticalCapSpace"] = title;
-  //   if (count === 9) allTeams[currentTeam]["hardCap"] = title;
-  //   if (count === 9) {
-  //     count = 0;
-  //     currentTeam++;
-  //   } else {
-  //     count++;
-  //   }
-  // });
+    //arrays to store data we will insert into final oject later
+    let playerSalary = [];
+    let playerHeadshots = [];
 
-  // fs.writeFile(
-  //   "salaryData/teamSalaries/2020teamSalaryCap.json",
-  //   JSON.stringify(allTeams),
-  //   (err) => {
-  //     if (err) throw err;
-  //     console.log("file successfully saved");
-  //   }
-  // );
-});
+    const $ = cheerio.load(html);
+
+    //accessing salary info and inserting into array
+    $("span.info").each(function (i, ele) {
+      const salary = $(ele).text();
+      playerSalary.push(salary);
+    });
+
+    //accessing headshot info and inserting into array
+    $(".table-headshot.xs-hide").each(function (i, ele) {
+      // const headshot = $(ele).text();
+      // console.log(ele.attribs.src);
+      playerHeadshots.push(ele.attribs.src);
+    });
+
+    //finally- putting all data in to an object
+    $(".team-name").each(function (i, ele) {
+      const playerName = $(ele).text();
+      allPlayers[playerName] = {
+        team: currentTeam
+          .split("-")
+          .map((element) => {
+            return element[0].toUpperCase() + element.slice(1);
+          })
+          .join(" "),
+        salary: playerSalary[i],
+        headshot: playerHeadshots[i],
+      };
+      // console.log(allPlayers);
+    });
+  });
+}
+
+setTimeout(() => {
+  fs.writeFile(
+    "salaryData/playerSalaries/2020PlayerCapHits.json",
+    JSON.stringify(allPlayers),
+    (err) => {
+      if (err) throw err;
+      console.log("file successfully saved");
+    }
+  );
+}, 40000);
