@@ -10,6 +10,10 @@ import { Bubble } from "react-chartjs-2";
 import teamSalaryCap2022 from "/Users/patrickrooney/NBAFrontOffice/salaryData/teamSalaries/teamSalaryCap2022.json";
 import logo from "/Users/patrickrooney/NBAFrontOffice/salaryData/logos/nba-san-antonio-spurs-logo.png";
 
+let spurs = new Image(50, 50);
+spurs.src =
+  "https://loodibee.com/wp-content/uploads/nba-san-antonio-spurs-logo.png";
+
 ChartJS.register(LinearScale, PointElement, Tooltip, Legend);
 
 // console.log(spurs);
@@ -24,8 +28,6 @@ ChartJS.register(LinearScale, PointElement, Tooltip, Legend);
 // );
 
 // var Image =  n
-let spurs = new Image(50, 50);
-spurs.src = "https://www.google.com/images/logo.png";
 
 export const options = {
   scales: {
@@ -33,11 +35,11 @@ export const options = {
       beginAtZero: true,
     },
   },
-  elements: {
-    point: {
-      pointStyle: spurs,
-    },
-  },
+  // elements: {
+  //   point: {
+  //     pointStyle: spurs,
+  //   },
+  // },
 };
 
 export const data = {
@@ -46,7 +48,7 @@ export const data = {
       label: "San Antonio Spurs",
 
       data: [{ x: 0.241, y: 98691331, r: 50 }],
-      // pointStyle: spurs,
+      pointStyle: spurs,
 
       // backgroundImage: "url(salaryData/logos/nba-san-antonio-spurs-logo.png)",
     },
