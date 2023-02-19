@@ -11,6 +11,7 @@
     "totalCap": "$98,691,331 ",
     "capSpace": "$24,963,669",
     "projectedPracticalCapSpace": "$25,174,713",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-san-antonio-spurs-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "1": {
@@ -25,6 +26,7 @@
     "totalCap": "$119,737,588 ",
     "capSpace": "$3,917,412",
     "projectedPracticalCapSpace": "$3,917,412",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-new-york-knicks-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "2": {
@@ -39,6 +41,7 @@
     "totalCap": "$125,842,126 ",
     "capSpace": "$-2,187,126",
     "projectedPracticalCapSpace": "$-351,036",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-indiana-pacers-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "3": {
@@ -53,6 +56,7 @@
     "totalCap": "$126,730,373 ",
     "capSpace": "$-3,075,373",
     "projectedPracticalCapSpace": "$-4,576,880",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-detroit-pistons-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "4": {
@@ -67,6 +71,7 @@
     "totalCap": "$127,365,210 ",
     "capSpace": "$-3,710,210",
     "projectedPracticalCapSpace": "$-3,710,210",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-memphis-grizzlies-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "5": {
@@ -81,6 +86,7 @@
     "totalCap": "$137,980,297 ",
     "capSpace": "$-14,325,297",
     "projectedPracticalCapSpace": "$-14,325,297",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-houston-rockets-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "6": {
@@ -95,6 +101,7 @@
     "totalCap": "$143,108,659 ",
     "capSpace": "$-19,453,659",
     "projectedPracticalCapSpace": "$-17,656,992",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-charlotte-hornets-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "7": {
@@ -109,6 +116,7 @@
     "totalCap": "$149,052,584 ",
     "capSpace": "$-25,397,584",
     "projectedPracticalCapSpace": "$-25,209,312",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-toronto-raptors-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "8": {
@@ -123,6 +131,7 @@
     "totalCap": "$149,085,695 ",
     "capSpace": "$-25,430,695",
     "projectedPracticalCapSpace": "$-25,372,202",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-miami-heat-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "9": {
@@ -137,6 +146,7 @@
     "totalCap": "$150,922,134 ",
     "capSpace": "$-27,267,134",
     "projectedPracticalCapSpace": "$-12,750,764",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-orlando-magic-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "10": {
@@ -151,6 +161,7 @@
     "totalCap": "$151,668,312 ",
     "capSpace": "$-28,013,312",
     "projectedPracticalCapSpace": "$-28,054,666",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-sacramento-kings-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "11": {
@@ -165,6 +176,7 @@
     "totalCap": "$152,903,152 ",
     "capSpace": "$-29,248,152",
     "projectedPracticalCapSpace": "$-27,236,636",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-utah-jazz-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "12": {
@@ -179,6 +191,7 @@
     "totalCap": "$153,271,551 ",
     "capSpace": "$-29,616,551",
     "projectedPracticalCapSpace": "$-29,616,551",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-cleveland-cavaliers-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "13": {
@@ -193,6 +206,7 @@
     "totalCap": "$153,420,038 ",
     "capSpace": "$-29,765,038",
     "projectedPracticalCapSpace": "$-28,565,038",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-chicago-bulls-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "14": {
@@ -207,6 +221,7 @@
     "totalCap": "$154,267,848 ",
     "capSpace": "$-30,612,848",
     "projectedPracticalCapSpace": "$-29,010,050",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-new-orleans-pelicans-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "15": {
@@ -221,6 +236,7 @@
     "totalCap": "$154,594,213 ",
     "capSpace": "$-30,939,213",
     "projectedPracticalCapSpace": "$-29,323,169",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-oklahoma-city-thunder-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "16": {
@@ -235,6 +251,7 @@
     "totalCap": "$154,789,520 ",
     "capSpace": "$-31,134,520",
     "projectedPracticalCapSpace": "$-20,265,470",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-portland-trail-blazers-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "17": {
@@ -249,7 +266,8 @@
     "totalCap": "$158,133,740 ",
     "capSpace": "$-34,478,740",
     "projectedPracticalCapSpace": "$-34,373,218",
-    "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
+    "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-atlanta-hawks-logo.png"
   },
   "18": {
     "name": "Philadelphia 76ers",
@@ -263,6 +281,7 @@
     "totalCap": "$164,242,330 ",
     "capSpace": "$-40,587,330",
     "projectedPracticalCapSpace": "$-31,374,760",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-philadelphia-76ers-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "19": {
@@ -277,6 +296,7 @@
     "totalCap": "$167,238,353 ",
     "capSpace": "$-43,583,353",
     "projectedPracticalCapSpace": "$-43,583,353",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-brooklyn-nets-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "20": {
@@ -291,6 +311,7 @@
     "totalCap": "$167,536,850 ",
     "capSpace": "$-43,881,850",
     "projectedPracticalCapSpace": "$-42,085,183",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-denver-nuggets-logo-2018.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "21": {
@@ -305,6 +326,7 @@
     "totalCap": "$175,052,574 ",
     "capSpace": "$-51,397,574",
     "projectedPracticalCapSpace": "$-49,586,058",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-minnesota-timberwolves-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "22": {
@@ -319,6 +341,7 @@
     "totalCap": "$175,455,024 ",
     "capSpace": "$-51,800,024",
     "projectedPracticalCapSpace": "$-51,800,024",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-boston-celtics-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "23": {
@@ -333,6 +356,7 @@
     "totalCap": "$176,463,309 ",
     "capSpace": "$-52,808,309",
     "projectedPracticalCapSpace": "$-49,178,423",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-phoenix-suns-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "24": {
@@ -347,6 +371,7 @@
     "totalCap": "$179,341,632 ",
     "capSpace": "$-55,686,632",
     "projectedPracticalCapSpace": "$-55,480,833",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-dallas-mavericks-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "25": {
@@ -361,6 +386,7 @@
     "totalCap": "$181,356,066 ",
     "capSpace": "$-57,701,066",
     "projectedPracticalCapSpace": "$-55,798,877",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-los-angeles-lakers-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "26": {
@@ -375,6 +401,7 @@
     "totalCap": "$186,736,428 ",
     "capSpace": "$-63,081,428",
     "projectedPracticalCapSpace": "$-61,284,761",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-washington-wizards-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "27": {
@@ -389,6 +416,7 @@
     "totalCap": "$192,460,319 ",
     "capSpace": "$-68,805,319",
     "projectedPracticalCapSpace": "$-68,805,319",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-la-clippers-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "28": {
@@ -403,6 +431,7 @@
     "totalCap": "$192,520,597 ",
     "capSpace": "$-68,865,597",
     "projectedPracticalCapSpace": "$-67,029,507",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-milwaukee-bucks-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
   },
   "29": {
@@ -417,7 +446,7 @@
     "totalCap": "$200,787,946 ",
     "capSpace": "$-77,132,946",
     "projectedPracticalCapSpace": "$-77,132,946",
+    "logo": "https://loodibee.com/wp-content/uploads/nba-golden-state-warriors-logo.png",
     "hardCap": "\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t"
-  },
-  "30": { "name": "\n\t\t\t\t\n\t\t\t" }
+  }
 }
