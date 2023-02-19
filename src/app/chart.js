@@ -72,15 +72,29 @@ export const options = {
   scales: {
     y: {
       beginAtZero: true,
+      ticks: {
+        // Include a dollar sign in the ticks
+        callback: function (value, index, ticks) {
+          return "%" + value;
+        },
+      },
+    },
+    x: {
+      ticks: {
+        // Include a dollar sign in the ticks
+        callback: function (value, index, ticks) {
+          return "$" + value;
+        },
+      },
     },
   },
-  // elements: {
-  //   point: {
-  //     pointStyle: spurs,
-  //     // pointStyle: "circle",
-  //   },
-  // },
 };
+// elements: {
+//   point: {
+//     pointStyle: spurs,
+//     // pointStyle: "circle",
+//   },
+// },
 
 // map through array of teams
 // for each team set label to "team name"
