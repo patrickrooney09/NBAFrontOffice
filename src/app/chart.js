@@ -9,6 +9,7 @@ import {
 } from "chart.js";
 import { withRouter } from "next/router";
 import { Bubble } from "react-chartjs-2";
+import axios from "axios";
 import teamSalaryCap2020 from "/Users/patrickrooney/NBAFrontOffice/salaryData/teamSalaries/teamSalaryCap2020.json";
 import teamSalaryCap2021 from "/Users/patrickrooney/NBAFrontOffice/salaryData/teamSalaries/teamSalaryCap2021.json";
 import teamSalaryCap2022 from "/Users/patrickrooney/NBAFrontOffice/salaryData/teamSalaries/teamSalaryCap2022.json";
@@ -17,6 +18,8 @@ import { Dropdown } from "@nextui-org/react";
 
 export function Chart(props) {
   ChartJS.register(LinearScale, PointElement, Tooltip, Legend);
+
+  console.log(props.stat);
 
   let teams;
   const getTeams = (year) => {
@@ -31,6 +34,24 @@ export function Chart(props) {
     }
   };
   getTeams(props.year);
+
+  axios.get("http://localhost:8000/teamStats").then((response) => {
+    console.log(response.data.teamStatsTotals);
+    response.data.teamStatsTotals.map((currentTeam, index) => {
+      let name = `${currentTeam.team.city} ${currentTeam.team.name}`;
+
+      teams.filter((current) => {
+        if (current.name === name) {
+          current.totalPointsScored = currentTeam.stats.offense.pts;
+          current.rebounds = currentTeam.stats.rebounds.reb;
+          current.fouls = currentTeam.stats.miscellaneous.fouls;
+          console.log("CURRENT:", current);
+          // console.log("currentTeam:", currentTeam);
+        }
+      });
+    });
+  });
+  console.log("teams:", teams);
 
   const teamData = teams.map((currentTeam, index) => {
     let logo = "circle";
@@ -53,7 +74,7 @@ export function Chart(props) {
               })
               .join("")
           ),
-          y: Number(currentTeam.winPercentage),
+          y: Number(currentTeam[`${props.stat}`]),
           r: 10,
         },
       ],
@@ -73,14 +94,18 @@ export function Chart(props) {
         title: {
           color: "white",
           display: true,
-          text: `${props.year} Win Percentage`,
+          text: `${props.year} ${props.stat}`,
         },
-        beginAtZero: true,
+        // beginAtZero: true,
         ticks: {
           color: "white",
           // Include a dollar sign in the ticks
           callback: function (value, index, ticks) {
-            return "%" + value;
+            if (props.stat === "winPercentage") {
+              return "%" + value;
+            } else {
+              return value;
+            }
           },
         },
       },
