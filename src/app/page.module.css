@@ -5,8 +5,15 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
+  background-color: rgb(191, 177, 177);
+  color: antiquewhite;
 }
 
+.chart {
+  color: white;
+}
+
+/*
 .description {
   display: inherit;
   justify-content: inherit;
@@ -129,17 +136,18 @@
   position: absolute;
   z-index: -1;
 }
+*/
 
 /* Conic Gradient Animation */
-.thirteen::before {
+/* .thirteen::before {
   animation: 6s rotate linear infinite;
   width: 200%;
   height: 200%;
   background: var(--tile-border);
-}
+} */
 
 /* Inner Square */
-.thirteen::after {
+/* .thirteen::after {
   inset: 0;
   padding: 1px;
   border-radius: var(--border-radius);
@@ -149,10 +157,10 @@
     rgba(var(--tile-end-rgb), 1)
   );
   background-clip: content-box;
-}
+} */
 
 /* Enable hover only on non-touch devices */
-@media (hover: hover) and (pointer: fine) {
+/* @media (hover: hover) and (pointer: fine) {
   .card:hover {
     background: rgba(var(--card-rgb), 0.1);
     border: 1px solid rgba(var(--card-border-rgb), 0.15);
@@ -171,10 +179,10 @@
   .card:hover span {
     transform: none;
   }
-}
+} */
 
 /* Mobile and Tablet */
-@media (max-width: 1023px) {
+/* @media (max-width: 1023px) {
   .content {
     padding: 4rem;
   }
@@ -268,4 +276,4 @@
   to {
     transform: rotate(0deg);
   }
-}
+}  */

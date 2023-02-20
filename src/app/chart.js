@@ -6,6 +6,7 @@ import {
   Tooltip,
   Legend,
 } from "chart.js";
+import { withRouter } from "next/router";
 import { Bubble } from "react-chartjs-2";
 import teamSalaryCap2022 from "/Users/patrickrooney/NBAFrontOffice/salaryData/teamSalaries/teamSalaryCap2020.json";
 // import logo from "/Users/patrickrooney/NBAFrontOffice/salaryData/logos/nba-san-antonio-spurs-logo.png";
@@ -69,10 +70,22 @@ console.log(typeof teamData);
 // var Image =  n
 
 export const options = {
+  color: "white",
+  borderColor: "white",
+
   scales: {
     y: {
+      grid: {
+        color: "white",
+      },
+      title: {
+        color: "white",
+        display: true,
+        text: "Win Percentage",
+      },
       beginAtZero: true,
       ticks: {
+        color: "white",
         // Include a dollar sign in the ticks
         callback: function (value, index, ticks) {
           return "%" + value;
@@ -80,11 +93,32 @@ export const options = {
       },
     },
     x: {
+      grid: {
+        color: "white",
+      },
+      title: {
+        color: "white",
+        display: true,
+        text: "Salary Cap",
+      },
       ticks: {
+        color: "white",
         // Include a dollar sign in the ticks
         callback: function (value, index, ticks) {
           return "$" + value;
         },
+      },
+    },
+  },
+  plugins: {
+    legend: {
+      position: "left",
+      labels: {
+        // usePointStyle: true, // logos
+
+        usePointStyle: false,
+        pointStyleWidth: 10,
+        padding: 5,
       },
     },
   },

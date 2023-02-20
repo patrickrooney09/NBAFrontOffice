@@ -19,9 +19,9 @@ export default async function Home() {
   return (
     <main className={styles.main}>
       <h1>NBA Front Office</h1>
-      <Chart />
+      <Chart class="chart" />
       {/* <Image src={logo} alt="spurs" width="50" height="50" /> */}
-      <ol>
+      {/* <ol>
         {teams.map((currentTeam) => {
           return (
             <li key={Number(currentTeam.rank)}>
@@ -30,7 +30,7 @@ export default async function Home() {
             </li>
           );
         })}
-      </ol>
+      </ol> */}
     </main>
   );
 }
