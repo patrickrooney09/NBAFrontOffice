@@ -5,18 +5,19 @@ import styles from "./page.module.css";
 import axios from "axios";
 import React, { useState } from "react";
 import { Chart } from "./chart";
+import { PlayerChart } from "./playerChart";
 
 const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   // const { theme } = useTheme();
 
-  const [selected, setSelected] = useState(2020);
-  const [stat, setStat] = useState("winPercentage");
+  const [selected, setSelected] = useState("2022-2023-regular");
+  const [stat, setStat] = useState("totalPointsScored");
 
   const handleYearChange = async (event) => {
     event.preventDefault();
-    setSelected(Number(event.target.value));
+    setSelected(event.target.value);
   };
   const handleStatChange = async (event) => {
     event.preventDefault();
@@ -33,14 +34,15 @@ export default function Home() {
       }}
     >
       <h1>NBA Front Office</h1>
-      <Chart class="chart" year={selected} stat={stat} />
+      {/* <Chart class="chart" year={selected} stat={stat} /> */}
+      <PlayerChart class="chart" year={selected} stat={stat} />
       <form id="year">
         <label htmlFor="year-dropdown">Sort Year: </label>
         <select name="year-dropdown" onChange={handleYearChange}>
           <option value="">-</option>
-          <option value="2020">2020</option>
-          <option value="2021">2021</option>
-          <option value="2022">2022</option>
+          <option value="2021-regular">2020-2021</option>
+          <option value="2021-2022-regular">2021-2022</option>
+          <option value="2022-2023-regular">2022-2023</option>
         </select>
       </form>
       <form id="stat">
@@ -51,6 +53,7 @@ export default function Home() {
           <option value="totalPointsScored">Total Points</option>
           <option value="rebounds">Rebounds</option>
           <option value="fouls">Fouls</option>
+          <option value="assists">assists</option>
         </select>
       </form>
     </main>

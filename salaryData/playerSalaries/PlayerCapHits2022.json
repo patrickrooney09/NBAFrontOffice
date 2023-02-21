@@ -1,2194 +1,2640 @@
 {
-  "De'Aaron Fox": {
-    "team": "Sacramento Kings",
-    "salary": "$30,351,780  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23600.png"
-  },
-  "Domantas Sabonis": {
-    "team": "Sacramento Kings",
-    "salary": "$18,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20216.png"
-  },
-  "Harrison Barnes": {
-    "team": "Sacramento Kings",
-    "salary": "$18,352,273  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10815.png"
-  },
-  "Kevin Huerter": {
-    "team": "Sacramento Kings",
-    "salary": "$14,508,929  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26985.png"
-  },
-  "Richaun Holmes": {
-    "team": "Sacramento Kings",
-    "salary": "$11,215,260  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17865.png"
-  },
-  "Malik Monk": {
-    "team": "Sacramento Kings",
-    "salary": "$9,472,219  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23606.png"
-  },
-  "Keegan Murray": {
-    "team": "Sacramento Kings",
-    "salary": "$8,008,440  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78112.png"
-  },
-  "Davion Mitchell": {
-    "team": "Sacramento Kings",
-    "salary": "$4,833,600  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74116.png"
-  },
-  "Terence Davis": {
-    "team": "Sacramento Kings",
-    "salary": "$4,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32059.png"
-  },
-  "Alex Len": {
-    "team": "Sacramento Kings",
-    "salary": "$3,918,600  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13318.png"
-  },
-  "Trey Lyles": {
-    "team": "Sacramento Kings",
-    "salary": "$2,625,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17840.png"
-  },
-  "Chimezie Metu": {
-    "team": "Sacramento Kings",
-    "salary": "$1,910,860  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27015.png"
-  },
-  "KZ Okpala": {
-    "team": "Sacramento Kings",
-    "salary": "$1,902,133  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31591.png"
-  },
-  "Matthew Dellavedova": {
-    "team": "Sacramento Kings",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13478.png"
-  },
-  "Kessler Edwards": {
-    "team": "Sacramento Kings",
-    "salary": "$1,637,966  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74151.png"
-  },
-  "P.J. Dozier": {
-    "team": "Sacramento Kings",
-    "salary": "$105,522  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23668.png"
-  },
-  "Deonte Burton": {
-    "team": "Sacramento Kings",
-    "salary": "$105,522  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/28767.png"
-  },
-  "Giannis Antetokounmpo": {
-    "team": "Milwaukee Bucks",
-    "salary": "$42,492,492  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13328.png"
-  },
-  "Khris Middleton": {
-    "team": "Milwaukee Bucks",
-    "salary": "$37,948,276  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10864.png"
-  },
-  "Jrue Holiday": {
-    "team": "Milwaukee Bucks",
-    "salary": "$33,665,040  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6316.png"
-  },
-  "Brook Lopez": {
-    "team": "Milwaukee Bucks",
-    "salary": "$13,906,976  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6136.png"
-  },
-  "Bobby Portis": {
-    "team": "Milwaukee Bucks",
-    "salary": "$10,843,350  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17850.png"
-  },
-  "Jae Crowder": {
-    "team": "Milwaukee Bucks",
-    "salary": "$10,183,800  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10859.png"
-  },
-  "Grayson Allen": {
-    "team": "Milwaukee Bucks",
-    "salary": "$8,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26987.png"
-  },
-  "Joe Ingles": {
-    "team": "Milwaukee Bucks",
-    "salary": "$6,479,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15852.png"
-  },
-  "Pat Connaughton": {
-    "team": "Milwaukee Bucks",
-    "salary": "$5,728,393  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17869.png"
-  },
-  "MarJon Beauchamp": {
-    "team": "Milwaukee Bucks",
-    "salary": "$2,485,200  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78134.png"
-  },
-  "Jevon Carter": {
-    "team": "Milwaukee Bucks",
-    "salary": "$2,100,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26998.png"
-  },
-  "Thanasis Antetokounmpo": {
-    "team": "Milwaukee Bucks",
-    "salary": "$1,878,720  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15403.png"
-  },
-  "Wesley Matthews": {
-    "team": "Milwaukee Bucks",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6489.png"
-  },
-  "Pascal Siakam": {
-    "team": "Toronto Raptors",
-    "salary": "$35,448,672  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20232.png"
-  },
-  "Fred VanVleet": {
-    "team": "Toronto Raptors",
-    "salary": "$21,250,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20778.png"
-  },
-  "Gary Trent Jr.": {
-    "team": "Toronto Raptors",
-    "salary": "$17,505,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27003.png"
-  },
-  "OG Anunoby": {
-    "team": "Toronto Raptors",
-    "salary": "$17,357,143  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23618.png"
-  },
-  "Chris Boucher": {
-    "team": "Toronto Raptors",
-    "salary": "$12,690,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23671.png"
-  },
-  "Jakob Poeltl": {
-    "team": "Toronto Raptors",
-    "salary": "$9,398,148  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20214.png"
-  },
-  "Thaddeus Young": {
-    "team": "Toronto Raptors",
-    "salary": "$8,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2658.png"
-  },
-  "Scottie Barnes": {
-    "team": "Toronto Raptors",
-    "salary": "$7,644,600  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74111.png"
-  },
-  "Otto Porter Jr.": {
-    "team": "Toronto Raptors",
-    "salary": "$6,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13316.png"
-  },
-  "Precious Achiuwa": {
-    "team": "Toronto Raptors",
-    "salary": "$2,840,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70662.png"
-  },
-  "Malachi Flynn": {
-    "team": "Toronto Raptors",
-    "salary": "$2,145,720  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70671.png"
-  },
-  "Juancho Hernangomez": {
-    "team": "Toronto Raptors",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20220.png"
-  },
-  "Dalano Banton": {
-    "team": "Toronto Raptors",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74153.png"
-  },
-  "Christian Koloko": {
-    "team": "Toronto Raptors",
-    "salary": "$1,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78131.png"
-  },
-  "Joe Wieskamp": {
-    "team": "Toronto Raptors",
-    "salary": "$94,136  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74148.png"
-  },
-  "Stephen Curry": {
-    "team": "Golden State Warriors",
-    "salary": "$48,070,014  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6287.png"
-  },
-  "Klay Thompson": {
-    "team": "Golden State Warriors",
-    "salary": "$40,600,080  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8062.png"
-  },
-  "Andrew Wiggins": {
-    "team": "Golden State Warriors",
-    "salary": "$33,616,770  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15353.png"
-  },
-  "Draymond Green": {
-    "team": "Golden State Warriors",
-    "salary": "$25,806,469  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10860.png"
-  },
-  "Gary Payton II": {
-    "team": "Golden State Warriors",
-    "salary": "$8,300,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20272.png"
-  },
-  "Kevon Looney": {
-    "team": "Golden State Warriors",
-    "salary": "$7,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17858.png"
-  },
-  "Jonathan Kuminga": {
-    "team": "Golden State Warriors",
-    "salary": "$5,739,840  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74114.png"
-  },
-  "Donte DiVincenzo": {
-    "team": "Golden State Warriors",
-    "salary": "$4,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26983.png"
-  },
-  "Jordan Poole": {
-    "team": "Golden State Warriors",
-    "salary": "$3,901,399  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31587.png"
-  },
-  "Moses Moody": {
-    "team": "Golden State Warriors",
-    "salary": "$3,740,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74121.png"
-  },
-  "Patrick Baldwin Jr.": {
-    "team": "Golden State Warriors",
-    "salary": "$2,226,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78139.png"
-  },
-  "Andre Iguodala": {
-    "team": "Golden State Warriors",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2652.png"
-  },
-  "JaMychal Green": {
-    "team": "Golden State Warriors",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/11666.png"
-  },
-  "Ryan Rollins": {
-    "team": "Golden State Warriors",
-    "salary": "$1,017,781  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78155.png"
-  },
-  "Jalen Brunson": {
-    "team": "New York Knicks",
-    "salary": "$27,733,332  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26999.png"
-  },
-  "Julius Randle": {
-    "team": "New York Knicks",
-    "salary": "$23,760,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15359.png"
-  },
-  "Evan Fournier": {
-    "team": "New York Knicks",
-    "salary": "$18,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10845.png"
-  },
-  "Mitchell Robinson": {
-    "team": "New York Knicks",
-    "salary": "$17,045,454  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27002.png"
-  },
-  "Derrick Rose": {
-    "team": "New York Knicks",
-    "salary": "$14,520,730  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6095.png"
-  },
-  "Josh Hart": {
-    "team": "New York Knicks",
-    "salary": "$12,960,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23625.png"
-  },
-  "R.J. Barrett": {
-    "team": "New York Knicks",
-    "salary": "$10,900,635  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31560.png"
-  },
-  "Isaiah Hartenstein": {
-    "team": "New York Knicks",
-    "salary": "$7,804,879  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23644.png"
-  },
-  "Obi Toppin": {
-    "team": "New York Knicks",
-    "salary": "$5,348,280  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70650.png"
-  },
-  "Immanuel Quickley": {
-    "team": "New York Knicks",
-    "salary": "$2,316,240  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70667.png"
-  },
-  "Quentin Grimes": {
-    "team": "New York Knicks",
-    "salary": "$2,277,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74132.png"
-  },
-  "Jericho Sims": {
-    "team": "New York Knicks",
-    "salary": "$1,637,966  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74166.png"
-  },
-  "Miles McBride": {
-    "team": "New York Knicks",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74143.png"
-  },
-  "Doug McDermott": {
-    "team": "San Antonio Spurs",
-    "salary": "$13,750,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15363.png"
-  },
-  "Devonte' Graham": {
-    "team": "San Antonio Spurs",
-    "salary": "$11,550,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27000.png"
-  },
-  "Zach Collins": {
-    "team": "San Antonio Spurs",
-    "salary": "$7,350,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23605.png"
-  },
-  "Khem Birch": {
-    "team": "San Antonio Spurs",
-    "salary": "$6,667,500  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15786.png"
-  },
-  "Romeo Langford": {
-    "team": "San Antonio Spurs",
-    "salary": "$5,634,257  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31571.png"
-  },
-  "Jeremy Sochan": {
-    "team": "San Antonio Spurs",
-    "salary": "$5,063,520  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78122.png"
-  },
-  "Devin Vassell": {
-    "team": "San Antonio Spurs",
-    "salary": "$4,437,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70653.png"
-  },
-  "Keldon Johnson": {
-    "team": "San Antonio Spurs",
-    "salary": "$3,873,025  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31588.png"
-  },
-  "Malaki Branham": {
-    "team": "San Antonio Spurs",
-    "salary": "$2,925,600  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78120.png"
-  },
-  "Charles Bassey": {
-    "team": "San Antonio Spurs",
-    "salary": "$2,756,757  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74160.png"
-  },
-  "Blake Wesley": {
-    "team": "San Antonio Spurs",
-    "salary": "$2,385,480  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78132.png"
-  },
-  "Isaiah Roby": {
-    "team": "San Antonio Spurs",
-    "salary": "$1,930,681  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31604.png"
-  },
-  "Keita Bates-Diop": {
-    "team": "San Antonio Spurs",
-    "salary": "$1,878,720  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27014.png"
-  },
-  "Tre Jones": {
-    "team": "San Antonio Spurs",
-    "salary": "$1,782,621  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70683.png"
-  },
-  "Gorgui Dieng": {
-    "team": "San Antonio Spurs",
-    "salary": "$105,522  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13334.png"
-  },
-  "Jimmy Butler": {
-    "team": "Miami Heat",
-    "salary": "$37,653,300  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8081.png"
-  },
-  "Bam Adebayo": {
-    "team": "Miami Heat",
-    "salary": "$30,351,780  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23609.png"
-  },
-  "Kyle Lowry": {
-    "team": "Miami Heat",
-    "salary": "$28,333,334  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2536.png"
-  },
-  "Duncan Robinson": {
-    "team": "Miami Heat",
-    "salary": "$16,902,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27658.png"
-  },
-  "Victor Oladipo": {
-    "team": "Miami Heat",
-    "salary": "$8,750,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13315.png"
-  },
-  "Caleb Martin": {
-    "team": "Miami Heat",
-    "salary": "$6,479,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32682.png"
-  },
-  "Tyler Herro": {
-    "team": "Miami Heat",
-    "salary": "$5,722,116  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31570.png"
-  },
-  "Nikola Jovic": {
-    "team": "Miami Heat",
-    "salary": "$2,239,920  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78135.png"
-  },
-  "Udonis Haslem": {
-    "team": "Miami Heat",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2549.png"
-  },
-  "Max Strus": {
-    "team": "Miami Heat",
-    "salary": "$1,815,677  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32411.png"
-  },
-  "Gabe Vincent": {
-    "team": "Miami Heat",
-    "salary": "$1,815,677  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/28087.png"
-  },
-  "Haywood Highsmith": {
-    "team": "Miami Heat",
-    "salary": "$1,752,638  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/28301.png"
-  },
-  "Omer Yurtseven": {
-    "team": "Miami Heat",
-    "salary": "$1,752,638  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70706.png"
-  },
-  "Jamaree Bouyea": { "team": "Miami Heat", "salary": "$58,493  " },
-  "Bojan Bogdanovic": {
-    "team": "Detroit Pistons",
-    "salary": "$19,550,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8083.png"
-  },
-  "Marvin Bagley III": {
-    "team": "Detroit Pistons",
-    "salary": "$12,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26968.png"
-  },
-  "Cade Cunningham": {
-    "team": "Detroit Pistons",
-    "salary": "$10,552,800  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74108.png"
-  },
-  "Alec Burks": {
-    "team": "Detroit Pistons",
-    "salary": "$10,012,800  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8063.png"
-  },
-  "James Wiseman": {
-    "team": "Detroit Pistons",
-    "salary": "$9,603,360  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70644.png"
-  },
-  "Nerlens Noel": {
-    "team": "Detroit Pistons",
-    "salary": "$9,240,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13319.png"
-  },
-  "Jaden Ivey": {
-    "team": "Detroit Pistons",
-    "salary": "$7,252,200  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78111.png"
-  },
-  "Killian Hayes": {
-    "team": "Detroit Pistons",
-    "salary": "$5,837,760  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70649.png"
-  },
-  "Hamidou Diallo": {
-    "team": "Detroit Pistons",
-    "salary": "$5,200,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27011.png"
-  },
-  "Cory Joseph": {
-    "team": "Detroit Pistons",
-    "salary": "$5,155,500  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8080.png"
-  },
-  "Jalen Duren": {
-    "team": "Detroit Pistons",
-    "salary": "$4,124,280  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78116.png"
-  },
-  "Isaiah Stewart": {
-    "team": "Detroit Pistons",
-    "salary": "$3,433,320  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70658.png"
-  },
-  "Rodney McGruder": {
-    "team": "Detroit Pistons",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13575.png"
-  },
-  "Isaiah Livers": {
-    "team": "Detroit Pistons",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74149.png"
-  },
-  "Stanley Umude": { "team": "Detroit Pistons", "salary": "$58,493  " },
   "Jayson Tatum": {
     "team": "Boston Celtics",
     "salary": "$30,351,780  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23598.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23598.png",
+    "playerName": "Jayson Tatum"
   },
   "Jaylen Brown": {
     "team": "Boston Celtics",
     "salary": "$28,741,071  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20208.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20208.png",
+    "playerName": "Jaylen Brown"
   },
   "Al Horford": {
     "team": "Boston Celtics",
     "salary": "$26,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2199.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2199.png",
+    "playerName": "Al Horford"
   },
   "Malcolm Brogdon": {
     "team": "Boston Celtics",
     "salary": "$22,600,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20242.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20242.png",
+    "playerName": "Malcolm Brogdon"
   },
   "Marcus Smart": {
     "team": "Boston Celtics",
     "salary": "$17,207,142  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15358.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15358.png",
+    "playerName": "Marcus Smart"
   },
   "Derrick White": {
     "team": "Boston Celtics",
     "salary": "$16,892,857  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23624.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23624.png",
+    "playerName": "Derrick White"
   },
   "Robert Williams III": {
     "team": "Boston Celtics",
     "salary": "$10,937,502  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26993.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26993.png",
+    "playerName": "Robert Williams III"
   },
   "Danilo Gallinari": {
     "team": "Boston Celtics",
     "salary": "$6,479,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6138.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6138.png",
+    "playerName": "Danilo Gallinari"
   },
   "Grant Williams": {
     "team": "Boston Celtics",
     "salary": "$4,306,281  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31579.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31579.png",
+    "playerName": "Grant Williams"
   },
   "Mike Muscala": {
     "team": "Boston Celtics",
     "salary": "$3,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13357.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13357.png",
+    "playerName": "Mike Muscala"
   },
   "Payton Pritchard": {
     "team": "Boston Celtics",
     "salary": "$2,239,200  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70668.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70668.png",
+    "playerName": "Payton Pritchard"
   },
   "Luke Kornet": {
     "team": "Boston Celtics",
     "salary": "$2,133,278  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23670.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23670.png",
+    "playerName": "Luke Kornet"
   },
   "Blake Griffin": {
     "team": "Boston Celtics",
     "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6501.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6501.png",
+    "playerName": "Blake Griffin"
   },
   "Sam Hauser": {
     "team": "Boston Celtics",
     "salary": "$1,637,966  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74311.png"
-  },
-  "Jaren Jackson Jr.": {
-    "team": "Memphis Grizzlies",
-    "salary": "$28,946,605  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26970.png"
-  },
-  "Steven Adams": {
-    "team": "Memphis Grizzlies",
-    "salary": "$17,926,829  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13325.png"
-  },
-  "Tyus Jones": {
-    "team": "Memphis Grizzlies",
-    "salary": "$15,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17852.png"
-  },
-  "Luke Kennard": {
-    "team": "Memphis Grizzlies",
-    "salary": "$14,415,545  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23607.png"
-  },
-  "Ja Morant": {
-    "team": "Memphis Grizzlies",
-    "salary": "$12,119,440  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31559.png"
-  },
-  "Dillon Brooks": {
-    "team": "Memphis Grizzlies",
-    "salary": "$11,400,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23646.png"
-  },
-  "Ziaire Williams": {
-    "team": "Memphis Grizzlies",
-    "salary": "$4,591,680  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74117.png"
-  },
-  "Brandon Clarke": {
-    "team": "Memphis Grizzlies",
-    "salary": "$4,343,920  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31578.png"
-  },
-  "Jake LaRavia": {
-    "team": "Memphis Grizzlies",
-    "salary": "$3,047,640  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78141.png"
-  },
-  "David Roddy": {
-    "team": "Memphis Grizzlies",
-    "salary": "$2,588,640  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78149.png"
-  },
-  "John Konchar": {
-    "team": "Memphis Grizzlies",
-    "salary": "$2,300,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32170.png"
-  },
-  "Desmond Bane": {
-    "team": "Memphis Grizzlies",
-    "salary": "$2,130,240  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70672.png"
-  },
-  "Santi Aldama": {
-    "team": "Memphis Grizzlies",
-    "salary": "$2,094,120  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74137.png"
-  },
-  "Xavier Tillman": {
-    "team": "Memphis Grizzlies",
-    "salary": "$1,782,621  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70677.png"
-  },
-  "Kennedy Chandler": {
-    "team": "Memphis Grizzlies",
-    "salary": "$1,200,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78127.png"
-  },
-  "Russell Westbrook": {
-    "team": "Utah Jazz",
-    "salary": "$47,063,478  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6141.png"
-  },
-  "Collin Sexton": {
-    "team": "Utah Jazz",
-    "salary": "$16,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26974.png"
-  },
-  "Lauri Markkanen": {
-    "team": "Utah Jazz",
-    "salary": "$16,475,454  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23602.png"
-  },
-  "Jordan Clarkson": {
-    "team": "Utah Jazz",
-    "salary": "$13,340,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15398.png"
-  },
-  "Kelly Olynyk": {
-    "team": "Utah Jazz",
-    "salary": "$12,804,878  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13326.png"
-  },
-  "Talen Horton-Tucker": {
-    "team": "Utah Jazz",
-    "salary": "$10,260,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31605.png"
-  },
-  "Rudy Gay": {
-    "team": "Utah Jazz",
-    "salary": "$6,184,500  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2534.png"
-  },
-  "Ochai Agbaji": {
-    "team": "Utah Jazz",
-    "salary": "$3,918,360  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78124.png"
-  },
-  "Simone Fontecchio": {
-    "team": "Utah Jazz",
-    "salary": "$3,205,128  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78654.png"
-  },
-  "Walker Kessler": {
-    "team": "Utah Jazz",
-    "salary": "$2,696,400  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78133.png"
-  },
-  "Leandro Bolmaro": {
-    "team": "Utah Jazz",
-    "salary": "$2,471,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70665.png"
-  },
-  "Damian Jones": {
-    "team": "Utah Jazz",
-    "salary": "$2,298,385  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20235.png"
-  },
-  "Udoka Azubuike": {
-    "team": "Utah Jazz",
-    "salary": "$2,174,880  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70669.png"
-  },
-  "Juan Toscano-Anderson": {
-    "team": "Utah Jazz",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32831.png"
-  },
-  "Myles Turner": {
-    "team": "Indiana Pacers",
-    "salary": "$35,069,500  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17839.png"
-  },
-  "Buddy Hield": {
-    "team": "Indiana Pacers",
-    "salary": "$21,177,750  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20211.png"
-  },
-  "Daniel Theis": {
-    "team": "Indiana Pacers",
-    "salary": "$8,694,369  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23828.png"
-  },
-  "T.J. McConnell": {
-    "team": "Indiana Pacers",
-    "salary": "$8,100,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/18252.png"
-  },
-  "Bennedict Mathurin": {
-    "team": "Indiana Pacers",
-    "salary": "$6,586,800  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78115.png"
-  },
-  "Jalen Smith": {
-    "team": "Indiana Pacers",
-    "salary": "$4,670,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70652.png"
-  },
-  "Tyrese Haliburton": {
-    "team": "Indiana Pacers",
-    "salary": "$4,215,120  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70654.png"
-  },
-  "George Hill": {
-    "team": "Indiana Pacers",
-    "salary": "$4,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6154.png"
-  },
-  "Chris Duarte": {
-    "team": "Indiana Pacers",
-    "salary": "$3,936,960  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74120.png"
-  },
-  "Aaron Nesmith": {
-    "team": "Indiana Pacers",
-    "salary": "$3,804,360  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70656.png"
-  },
-  "Jordan Nwora": {
-    "team": "Indiana Pacers",
-    "salary": "$3,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70687.png"
-  },
-  "Isaiah Jackson": {
-    "team": "Indiana Pacers",
-    "salary": "$2,573,760  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74129.png"
-  },
-  "Andrew Nembhard": {
-    "team": "Indiana Pacers",
-    "salary": "$2,244,111  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78137.png"
-  },
-  "Oshae Brissett": {
-    "team": "Indiana Pacers",
-    "salary": "$1,846,738  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32418.png"
-  },
-  "James Johnson": {
-    "team": "Indiana Pacers",
-    "salary": "$590,926  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6279.png"
-  },
-  "Goga Bitadze": {
-    "team": "Indiana Pacers",
-    "salary": "$590,926  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31575.png"
-  },
-  "Jalen Green": {
-    "team": "Houston Rockets",
-    "salary": "$9,441,840  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74109.png"
-  },
-  "Jabari Smith Jr.": {
-    "team": "Houston Rockets",
-    "salary": "$8,882,640  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78109.png"
-  },
-  "Jae’Sean Tate": {
-    "team": "Houston Rockets",
-    "salary": "$7,065,217  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70758.png"
-  },
-  "Alperen Sengun": {
-    "team": "Houston Rockets",
-    "salary": "$3,375,360  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74123.png"
-  },
-  "Tari Eason": {
-    "team": "Houston Rockets",
-    "salary": "$3,359,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78123.png"
-  },
-  "Kevin Porter Jr.": {
-    "team": "Houston Rockets",
-    "salary": "$3,217,631  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31589.png"
-  },
-  "Usman Garuba": {
-    "team": "Houston Rockets",
-    "salary": "$2,471,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74130.png"
-  },
-  "Josh Christopher": {
-    "team": "Houston Rockets",
-    "salary": "$2,372,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74131.png"
-  },
-  "TyTy Washington Jr.": {
-    "team": "Houston Rockets",
-    "salary": "$2,210,040  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78125.png"
-  },
-  "Frank Kaminsky": {
-    "team": "Houston Rockets",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17837.png"
-  },
-  "Kenyon Martin Jr.": {
-    "team": "Houston Rockets",
-    "salary": "$1,782,621  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70694.png"
-  },
-  "Daishen Nix": {
-    "team": "Houston Rockets",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74357.png"
-  },
-  "Boban Marjanovic": {
-    "team": "Houston Rockets",
-    "salary": "$601,478  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17984.png"
-  },
-  "Trae Young": {
-    "team": "Atlanta Hawks",
-    "salary": "$37,096,500  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26971.png"
-  },
-  "John Collins": {
-    "team": "Atlanta Hawks",
-    "salary": "$23,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23614.png"
-  },
-  "Clint Capela": {
-    "team": "Atlanta Hawks",
-    "salary": "$18,706,897  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15377.png"
-  },
-  "Bogdan Bogdanovic": {
-    "team": "Atlanta Hawks",
-    "salary": "$18,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15379.png"
-  },
-  "Dejounte Murray": {
-    "team": "Atlanta Hawks",
-    "salary": "$16,571,120  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20234.png"
-  },
-  "De'Andre Hunter": {
-    "team": "Atlanta Hawks",
-    "salary": "$9,835,881  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31561.png"
-  },
-  "Onyeka Okongwu": {
-    "team": "Atlanta Hawks",
-    "salary": "$6,395,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70648.png"
-  },
-  "A.J. Griffin": {
-    "team": "Atlanta Hawks",
-    "salary": "$3,536,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78119.png"
-  },
-  "Saddiq Bey": {
-    "team": "Atlanta Hawks",
-    "salary": "$2,959,080  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70661.png"
-  },
-  "Jalen Johnson": {
-    "team": "Atlanta Hawks",
-    "salary": "$2,792,640  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74127.png"
-  },
-  "Bruno Fernando": {
-    "team": "Atlanta Hawks",
-    "salary": "$2,717,391  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31593.png"
-  },
-  "Garrison Mathews": {
-    "team": "Atlanta Hawks",
-    "salary": "$2,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32044.png"
-  },
-  "Aaron Holiday": {
-    "team": "Atlanta Hawks",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26989.png"
-  },
-  "Vit Krejci": {
-    "team": "Atlanta Hawks",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70679.png"
-  },
-  "Tyrese Martin": {
-    "team": "Atlanta Hawks",
-    "salary": "$1,017,781  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78162.png"
-  },
-  "Derrick Favors": {
-    "team": "Atlanta Hawks",
-    "salary": "$105,522  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6884.png"
-  },
-  "Zach LaVine": {
-    "team": "Chicago Bulls",
-    "salary": "$37,096,500  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15365.png"
-  },
-  "DeMar DeRozan": {
-    "team": "Chicago Bulls",
-    "salary": "$27,300,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6327.png"
-  },
-  "Nikola Vucevic": {
-    "team": "Chicago Bulls",
-    "salary": "$22,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8067.png"
-  },
-  "Lonzo Ball": {
-    "team": "Chicago Bulls",
-    "salary": "$19,534,884  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23597.png"
-  },
-  "Alex Caruso": {
-    "team": "Chicago Bulls",
-    "salary": "$9,030,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/21076.png"
-  },
-  "Patrick Williams": {
-    "team": "Chicago Bulls",
-    "salary": "$7,775,400  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70646.png"
-  },
-  "Coby White": {
-    "team": "Chicago Bulls",
-    "salary": "$7,413,955  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31564.png"
-  },
-  "Andre Drummond": {
-    "team": "Chicago Bulls",
-    "salary": "$3,200,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10817.png"
-  },
-  "Derrick Jones Jr.": {
-    "team": "Chicago Bulls",
-    "salary": "$3,200,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/21067.png"
-  },
-  "Dalen Terry": {
-    "team": "Chicago Bulls",
-    "salary": "$3,191,400  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78128.png"
-  },
-  "Tony Bradley": {
-    "team": "Chicago Bulls",
-    "salary": "$2,036,318  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23623.png"
-  },
-  "Goran Dragic": {
-    "team": "Chicago Bulls",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6146.png"
-  },
-  "Javonte Green": {
-    "team": "Chicago Bulls",
-    "salary": "$1,815,677  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32409.png"
-  },
-  "Ayo Dosunmu": {
-    "team": "Chicago Bulls",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74145.png"
-  },
-  "Marko Simonovic": {
-    "team": "Chicago Bulls",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70686.png"
-  },
-  "Bradley Beal": {
-    "team": "Washington Wizards",
-    "salary": "$43,279,250  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10811.png"
-  },
-  "Kristaps Porzingis": {
-    "team": "Washington Wizards",
-    "salary": "$33,833,400  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17832.png"
-  },
-  "Will Barton": {
-    "team": "Washington Wizards",
-    "salary": "$14,375,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10865.png"
-  },
-  "Kyle Kuzma": {
-    "team": "Washington Wizards",
-    "salary": "$13,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23622.png"
-  },
-  "Monte Morris": {
-    "team": "Washington Wizards",
-    "salary": "$9,125,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23652.png"
-  },
-  "Delon Wright": {
-    "team": "Washington Wizards",
-    "salary": "$7,804,878  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17848.png"
-  },
-  "Kendrick Nunn": {
-    "team": "Washington Wizards",
-    "salary": "$5,250,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/28041.png"
-  },
-  "Deni Avdija": {
-    "team": "Washington Wizards",
-    "salary": "$4,916,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70651.png"
-  },
-  "Johnny Davis": {
-    "team": "Washington Wizards",
-    "salary": "$4,810,320  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78117.png"
-  },
-  "Corey Kispert": {
-    "team": "Washington Wizards",
-    "salary": "$3,552,840  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74122.png"
-  },
-  "Daniel Gafford": {
-    "team": "Washington Wizards",
-    "salary": "$1,930,681  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31597.png"
-  },
-  "Taj Gibson": {
-    "team": "Washington Wizards",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6278.png"
-  },
-  "Anthony Gill": {
-    "team": "Washington Wizards",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70741.png"
-  },
-  "Vernon Carey Jr.": {
-    "team": "Washington Wizards",
-    "salary": "$1,782,621  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70674.png"
-  },
-  "Isaiah Todd": {
-    "team": "Washington Wizards",
-    "salary": "$1,575,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74138.png"
-  },
-  "Kevin Durant": {
-    "team": "Phoenix Suns",
-    "salary": "$44,124,845  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2717.png"
-  },
-  "Devin Booker": {
-    "team": "Phoenix Suns",
-    "salary": "$33,833,400  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17841.png"
-  },
-  "Deandre Ayton": {
-    "team": "Phoenix Suns",
-    "salary": "$30,913,750  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26967.png"
-  },
-  "Chris Paul": {
-    "team": "Phoenix Suns",
-    "salary": "$28,400,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2609.png"
-  },
-  "Landry Shamet": {
-    "team": "Phoenix Suns",
-    "salary": "$9,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26992.png"
-  },
-  "Cameron Payne": {
-    "team": "Phoenix Suns",
-    "salary": "$6,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17842.png"
-  },
-  "Torrey Craig": {
-    "team": "Phoenix Suns",
-    "salary": "$5,121,951  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/24230.png"
-  },
-  "Darius Bazley": {
-    "team": "Phoenix Suns",
-    "salary": "$4,264,629  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31581.png"
-  },
-  "Bismack Biyombo": {
-    "team": "Phoenix Suns",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8057.png"
-  },
-  "T.J. Warren": {
-    "team": "Phoenix Suns",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15366.png"
-  },
-  "Damion Lee": {
-    "team": "Phoenix Suns",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/21063.png"
-  },
-  "Josh Okogie": {
-    "team": "Phoenix Suns",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26986.png"
-  },
-  "Jock Landale": {
-    "team": "Phoenix Suns",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74215.png"
-  },
-  "Terrence Ross": {
-    "team": "Phoenix Suns",
-    "salary": "$580,373  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10816.png"
-  },
-  "Saben Lee": {
-    "team": "Phoenix Suns",
-    "salary": "$105,522  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70680.png"
-  },
-  "Rudy Gobert": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$38,172,414  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13340.png"
-  },
-  "Karl-Anthony Towns": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$33,833,400  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17829.png"
-  },
-  "Mike Conley": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$22,680,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2532.png"
-  },
-  "Anthony Edwards": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$10,733,400  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70643.png"
-  },
-  "Kyle Anderson": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$8,780,488  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15382.png"
-  },
-  "Taurean Prince": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$7,295,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20217.png"
-  },
-  "Nickeil Alexander-Walker": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$5,009,633  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31574.png"
-  },
-  "Wendell Moore Jr.": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$2,306,520  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78145.png"
-  },
-  "Jaden McDaniels": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$2,161,440  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70670.png"
-  },
-  "Jordan McLaughlin": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$2,160,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27975.png"
-  },
-  "Jaylen Nowell": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$1,930,681  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31602.png"
-  },
-  "Naz Reid": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$1,930,681  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32045.png"
-  },
-  "Austin Rivers": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10818.png"
-  },
-  "Nathan Knight": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70772.png"
-  },
-  "Josh Minott": {
-    "team": "Minnesota Timberwolves",
-    "salary": "$1,017,781  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78156.png"
-  },
-  "Paul George": {
-    "team": "Los Angeles Clippers",
-    "salary": "$42,492,568  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6892.png"
-  },
-  "Kawhi Leonard": {
-    "team": "Los Angeles Clippers",
-    "salary": "$42,492,492  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8066.png"
-  },
-  "Eric Gordon": {
-    "team": "Los Angeles Clippers",
-    "salary": "$19,568,360  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6116.png"
-  },
-  "Norman Powell": {
-    "team": "Los Angeles Clippers",
-    "salary": "$16,758,621  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17874.png"
-  },
-  "Marcus Morris Sr.": {
-    "team": "Los Angeles Clippers",
-    "salary": "$16,372,093  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8065.png"
-  },
-  "Robert Covington": {
-    "team": "Los Angeles Clippers",
-    "salary": "$12,307,692  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13379.png"
-  },
-  "Nicolas Batum": {
-    "team": "Los Angeles Clippers",
-    "salary": "$10,843,350  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6149.png"
-  },
-  "Ivica Zubac": {
-    "team": "Los Angeles Clippers",
-    "salary": "$10,123,457  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20238.png"
-  },
-  "Mason Plumlee": {
-    "team": "Los Angeles Clippers",
-    "salary": "$9,080,417  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13335.png"
-  },
-  "Amir Coffey": {
-    "team": "Los Angeles Clippers",
-    "salary": "$3,395,062  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32198.png"
-  },
-  "Nah'Shon Hyland": {
-    "team": "Los Angeles Clippers",
-    "salary": "$2,201,520  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74133.png"
-  },
-  "Terance Mann": {
-    "team": "Los Angeles Clippers",
-    "salary": "$1,930,681  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31607.png"
-  },
-  "Brandon Boston Jr": {
-    "team": "Los Angeles Clippers",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74158.png"
-  },
-  "Jason Preston": {
-    "team": "Los Angeles Clippers",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74140.png"
-  },
-  "LeBron James": {
-    "team": "Los Angeles Lakers",
-    "salary": "$44,474,988  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2257.png"
-  },
-  "Anthony Davis": {
-    "team": "Los Angeles Lakers",
-    "salary": "$37,980,720  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10809.png"
-  },
-  "D'Angelo Russell": {
-    "team": "Los Angeles Lakers",
-    "salary": "$31,377,750  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17830.png"
-  },
-  "Malik Beasley": {
-    "team": "Los Angeles Lakers",
-    "salary": "$15,558,035  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20224.png"
-  },
-  "Mohamed Bamba": {
-    "team": "Los Angeles Lakers",
-    "salary": "$10,300,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26972.png"
-  },
-  "Lonnie Walker IV": {
-    "team": "Los Angeles Lakers",
-    "salary": "$6,479,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26984.png"
-  },
-  "Rui Hachimura": {
-    "team": "Los Angeles Lakers",
-    "salary": "$6,263,188  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31566.png"
-  },
-  "Jarred Vanderbilt": {
-    "team": "Los Angeles Lakers",
-    "salary": "$4,374,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27007.png"
-  },
-  "Davon Reed": {
-    "team": "Los Angeles Lakers",
-    "salary": "$1,902,133  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23627.png"
-  },
-  "Wenyen Gabriel": {
-    "team": "Los Angeles Lakers",
-    "salary": "$1,878,720  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27806.png"
-  },
-  "Dennis Schröder": {
-    "team": "Los Angeles Lakers",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13330.png"
-  },
-  "Troy Brown Jr.": {
-    "team": "Los Angeles Lakers",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26981.png"
-  },
-  "Austin Reaves": {
-    "team": "Los Angeles Lakers",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74218.png"
-  },
-  "Max Christie": {
-    "team": "Los Angeles Lakers",
-    "salary": "$1,017,781  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78136.png"
-  },
-  "Sterling Brown": {
-    "team": "Los Angeles Lakers",
-    "salary": "$105,522  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23647.png"
-  },
-  "C.J. McCollum": {
-    "team": "New Orleans Pelicans",
-    "salary": "$33,333,333  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13323.png"
-  },
-  "Brandon Ingram": {
-    "team": "New Orleans Pelicans",
-    "salary": "$31,650,600  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20207.png"
-  },
-  "Jonas Valanciunas": {
-    "team": "New Orleans Pelicans",
-    "salary": "$14,700,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8055.png"
-  },
-  "Zion Williamson": {
-    "team": "New Orleans Pelicans",
-    "salary": "$13,534,817  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31558.png"
-  },
-  "Josh Richardson": {
-    "team": "New Orleans Pelicans",
-    "salary": "$12,196,094  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17868.png"
-  },
-  "Larry Nance Jr.": {
-    "team": "New Orleans Pelicans",
-    "salary": "$9,672,727  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17855.png"
-  },
-  "Jaxson Hayes": {
-    "team": "New Orleans Pelicans",
-    "salary": "$6,803,012  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31565.png"
-  },
-  "Dyson Daniels": {
-    "team": "New Orleans Pelicans",
-    "salary": "$5,508,600  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78114.png"
-  },
-  "Garrett Temple": {
-    "team": "New Orleans Pelicans",
-    "salary": "$5,155,500  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6492.png"
-  },
-  "Kira Lewis Jr.": {
-    "team": "New Orleans Pelicans",
-    "salary": "$4,004,280  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70655.png"
-  },
-  "Trey Murphy III": {
-    "team": "New Orleans Pelicans",
-    "salary": "$3,206,520  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74124.png"
-  },
-  "Willy Hernangomez": {
-    "team": "New Orleans Pelicans",
-    "salary": "$2,443,581  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17863.png"
-  },
-  "Herbert Jones": {
-    "team": "New Orleans Pelicans",
-    "salary": "$1,785,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74142.png"
-  },
-  "Naji Marshall": {
-    "team": "New Orleans Pelicans",
-    "salary": "$1,782,621  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70704.png"
-  },
-  "Jose Alvarado": {
-    "team": "New Orleans Pelicans",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74331.png"
-  },
-  "Shai Gilgeous-Alexander": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$30,913,750  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26977.png"
-  },
-  "Luguentz Dort": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$15,277,778  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/33033.png"
-  },
-  "Chet Holmgren": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$9,891,240  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78108.png"
-  },
-  "Dario Saric": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$9,240,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15364.png"
-  },
-  "Josh Giddey": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$6,287,400  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74113.png"
-  },
-  "Ousmane Dieng": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$4,569,840  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78118.png"
-  },
-  "Jalen Williams": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$4,341,480  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78126.png"
-  },
-  "Aleksej Pokusevski": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$3,261,480  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70659.png"
-  },
-  "Tre Mann": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$3,046,200  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74125.png"
-  },
-  "Jeremiah Robinson-Earl": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$2,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74139.png"
-  },
-  "Kenrich Williams": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$2,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27758.png"
-  },
-  "Jaylin Williams": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$2,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78150.png"
-  },
-  "Justin Jackson": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23610.png"
-  },
-  "Isaiah Joe": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70691.png"
-  },
-  "Aaron Wiggins": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74162.png"
-  },
-  "Eugene Omoruyi": {
-    "team": "Oklahoma City Thunder",
-    "salary": "$345,110  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74300.png"
-  },
-  "Damian Lillard": {
-    "team": "Portland Trail Blazers",
-    "salary": "$42,492,492  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10814.png"
-  },
-  "Anfernee Simons": {
-    "team": "Portland Trail Blazers",
-    "salary": "$22,321,429  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26990.png"
-  },
-  "Jerami Grant": {
-    "team": "Portland Trail Blazers",
-    "salary": "$20,955,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15391.png"
-  },
-  "Jusuf Nurkic": {
-    "team": "Portland Trail Blazers",
-    "salary": "$15,625,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15368.png"
-  },
-  "Shaedon Sharpe": {
-    "team": "Portland Trail Blazers",
-    "salary": "$6,012,960  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78113.png"
-  },
-  "Cam Reddish": {
-    "team": "Portland Trail Blazers",
-    "salary": "$5,954,454  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31567.png"
-  },
-  "Matisse Thybulle": {
-    "team": "Portland Trail Blazers",
-    "salary": "$4,379,527  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31577.png"
-  },
-  "Nassir Little": {
-    "team": "Portland Trail Blazers",
-    "salary": "$4,171,548  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31583.png"
-  },
-  "Justise Winslow": {
-    "team": "Portland Trail Blazers",
-    "salary": "$4,097,561  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17838.png"
-  },
-  "Kevin Knox": {
-    "team": "Portland Trail Blazers",
-    "salary": "$3,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26975.png"
-  },
-  "Keon Johnson": {
-    "team": "Portland Trail Blazers",
-    "salary": "$2,681,040  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74128.png"
-  },
-  "Ryan Arcidiacono": {
-    "team": "Portland Trail Blazers",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20275.png"
-  },
-  "Drew Eubanks": {
-    "team": "Portland Trail Blazers",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/28052.png"
-  },
-  "Trendon Watford": {
-    "team": "Portland Trail Blazers",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74232.png"
-  },
-  "Jabari Walker": {
-    "team": "Portland Trail Blazers",
-    "salary": "$1,017,781  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78167.png"
-  },
-  "Nikola Jokic": {
-    "team": "Denver Nuggets",
-    "salary": "$33,047,804  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15393.png"
-  },
-  "Jamal Murray": {
-    "team": "Denver Nuggets",
-    "salary": "$31,650,600  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20212.png"
-  },
-  "Michael Porter Jr.": {
-    "team": "Denver Nuggets",
-    "salary": "$30,913,750  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26980.png"
-  },
-  "Aaron Gordon": {
-    "team": "Denver Nuggets",
-    "salary": "$19,690,909  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15356.png"
-  },
-  "Kentavious Caldwell-Pope": {
-    "team": "Denver Nuggets",
-    "salary": "$14,004,703  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13321.png"
-  },
-  "Bruce Brown Jr.": {
-    "team": "Denver Nuggets",
-    "salary": "$6,479,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27008.png"
-  },
-  "Ishmael Smith": {
-    "team": "Denver Nuggets",
-    "salary": "$4,725,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/7116.png"
-  },
-  "Jeff Green": {
-    "team": "Denver Nuggets",
-    "salary": "$4,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2720.png"
-  },
-  "Christian Braun": {
-    "team": "Denver Nuggets",
-    "salary": "$2,808,600  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78148.png"
-  },
-  "Zeke Nnaji": {
-    "team": "Denver Nuggets",
-    "salary": "$2,617,800  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70664.png"
-  },
-  "Vlatko Cancar": {
-    "team": "Denver Nuggets",
-    "salary": "$2,234,359  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23650.png"
-  },
-  "Peyton Watson": {
-    "team": "Denver Nuggets",
-    "salary": "$2,193,960  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78138.png"
-  },
-  "DeAndre Jordan": {
-    "team": "Denver Nuggets",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6117.png"
-  },
-  "Thomas Bryant": {
-    "team": "Denver Nuggets",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23643.png"
-  },
-  "Reggie Jackson": {
-    "team": "Denver Nuggets",
-    "salary": "$580,373  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8075.png"
-  },
-  "Gordon Hayward": {
-    "team": "Charlotte Hornets",
-    "salary": "$30,075,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6891.png"
-  },
-  "Terry Rozier": {
-    "team": "Charlotte Hornets",
-    "salary": "$21,486,316  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17844.png"
-  },
-  "Kelly Oubre Jr.": {
-    "team": "Charlotte Hornets",
-    "salary": "$12,600,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17843.png"
-  },
-  "LaMelo Ball": {
-    "team": "Charlotte Hornets",
-    "salary": "$8,623,920  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70645.png"
-  },
-  "Cody Martin": {
-    "team": "Charlotte Hornets",
-    "salary": "$7,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31595.png"
-  },
-  "PJ Washington": {
-    "team": "Charlotte Hornets",
-    "salary": "$5,808,435  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31569.png"
-  },
-  "James Bouknight": {
-    "team": "Charlotte Hornets",
-    "salary": "$4,362,240  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74118.png"
-  },
-  "Mark Williams": {
-    "team": "Charlotte Hornets",
-    "salary": "$3,722,040  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78121.png"
-  },
-  "Kai Jones": {
-    "team": "Charlotte Hornets",
-    "salary": "$2,909,040  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74126.png"
-  },
-  "Sviatoslav Mykhailiuk": {
-    "team": "Charlotte Hornets",
-    "salary": "$1,968,175  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27013.png"
-  },
-  "Dennis Smith Jr.": {
-    "team": "Charlotte Hornets",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23604.png"
-  },
-  "Nick Richards": {
-    "team": "Charlotte Hornets",
-    "salary": "$1,782,621  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70684.png"
-  },
-  "JT Thor": {
-    "team": "Charlotte Hornets",
-    "salary": "$1,563,518  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74144.png"
-  },
-  "Jonathan Isaac": {
-    "team": "Orlando Magic",
-    "salary": "$17,400,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23601.png"
-  },
-  "Markelle Fultz": {
-    "team": "Orlando Magic",
-    "salary": "$16,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23596.png"
-  },
-  "Wendell Carter Jr.": {
-    "team": "Orlando Magic",
-    "salary": "$14,150,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26973.png"
-  },
-  "Patrick Beverley": {
-    "team": "Orlando Magic",
-    "salary": "$13,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6297.png"
-  },
-  "Gary Harris": {
-    "team": "Orlando Magic",
-    "salary": "$13,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15371.png"
-  },
-  "Paolo Banchero": {
-    "team": "Orlando Magic",
-    "salary": "$11,055,120  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78110.png"
-  },
-  "Jalen Suggs": {
-    "team": "Orlando Magic",
-    "salary": "$6,922,320  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74112.png"
-  },
-  "Franz Wagner": {
-    "team": "Orlando Magic",
-    "salary": "$5,258,280  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74115.png"
-  },
-  "Cole Anthony": {
-    "team": "Orlando Magic",
-    "salary": "$3,613,680  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70657.png"
-  },
-  "Chuma Okeke": {
-    "team": "Orlando Magic",
-    "salary": "$3,433,320  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31573.png"
-  },
-  "RJ Hampton": {
-    "team": "Orlando Magic",
-    "salary": "$2,412,840  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70666.png"
-  },
-  "Bol Bol": {
-    "team": "Orlando Magic",
-    "salary": "$2,200,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31603.png"
-  },
-  "Caleb Houstan": {
-    "team": "Orlando Magic",
-    "salary": "$2,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78142.png"
-  },
-  "Moritz Wagner": {
-    "team": "Orlando Magic",
-    "salary": "$1,878,720  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26991.png"
-  },
-  "Tobias Harris": {
-    "team": "Philadelphia 76ers",
-    "salary": "$37,633,050  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8070.png"
-  },
-  "Joel Embiid": {
-    "team": "Philadelphia 76ers",
-    "salary": "$33,616,770  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15355.png"
-  },
-  "James Harden": {
-    "team": "Philadelphia 76ers",
-    "salary": "$33,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6312.png"
-  },
-  "P.J. Tucker": {
-    "team": "Philadelphia 76ers",
-    "salary": "$10,490,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/11059.png"
-  },
-  "De'Anthony Melton": {
-    "team": "Philadelphia 76ers",
-    "salary": "$8,250,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27012.png"
-  },
-  "Furkan Korkmaz": {
-    "team": "Philadelphia 76ers",
-    "salary": "$5,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20231.png"
-  },
-  "Danuel House Jr.": {
-    "team": "Philadelphia 76ers",
-    "salary": "$4,105,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20800.png"
-  },
-  "Georges Niang": {
-    "team": "Philadelphia 76ers",
-    "salary": "$3,465,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20256.png"
-  },
-  "Tyrese Maxey": {
-    "team": "Philadelphia 76ers",
-    "salary": "$2,726,880  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70663.png"
-  },
-  "Montrezl Harrell": {
-    "team": "Philadelphia 76ers",
-    "salary": "$2,463,490  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17860.png"
-  },
-  "Jaden Springer": {
-    "team": "Philadelphia 76ers",
-    "salary": "$2,125,200  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74135.png"
-  },
-  "Shake Milton": {
-    "team": "Philadelphia 76ers",
-    "salary": "$1,997,718  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27020.png"
-  },
-  "Jalen McDaniels": {
-    "team": "Philadelphia 76ers",
-    "salary": "$1,930,681  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31611.png"
-  },
-  "Paul Reed": {
-    "team": "Philadelphia 76ers",
-    "salary": "$1,782,621  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70700.png"
-  },
-  "Dewayne Dedmon": {
-    "team": "Philadelphia 76ers",
-    "salary": "$580,373  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13536.png"
-  },
-  "Donovan Mitchell": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$30,913,750  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23608.png"
-  },
-  "Kevin Love": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$28,942,830  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6132.png"
-  },
-  "Jarrett Allen": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$20,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23617.png"
-  },
-  "Caris LeVert": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$18,796,296  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20225.png"
-  },
-  "Darius Garland": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$8,920,795  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31562.png"
-  },
-  "Evan Mobley": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$8,478,720  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74110.png"
-  },
-  "Cedi Osman": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$7,426,088  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17859.png"
-  },
-  "Isaac Okoro": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$7,040,880  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70647.png"
-  },
-  "Ricky Rubio": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$5,853,659  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6305.png"
-  },
-  "Dylan Windler": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$4,037,278  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31585.png"
-  },
-  "Danny Green": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$2,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6277.png"
-  },
-  "Dean Wade": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$1,930,681  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31963.png"
-  },
-  "Robin Lopez": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6147.png"
-  },
-  "Raul Neto": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13360.png"
-  },
-  "Lamar Stevens": {
-    "team": "Cleveland Cavaliers",
-    "salary": "$1,782,621  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70716.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74311.png",
+    "playerName": "Sam Hauser"
   },
   "Ben Simmons": {
     "team": "Brooklyn Nets",
     "salary": "$35,448,672  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20206.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20206.png",
+    "playerName": "Ben Simmons"
   },
   "Mikal Bridges": {
     "team": "Brooklyn Nets",
     "salary": "$21,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26976.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26976.png",
+    "playerName": "Mikal Bridges"
   },
   "Spencer Dinwiddie": {
     "team": "Brooklyn Nets",
     "salary": "$19,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15390.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15390.png",
+    "playerName": "Spencer Dinwiddie"
   },
   "Joe Harris": {
     "team": "Brooklyn Nets",
     "salary": "$18,642,857  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15385.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15385.png",
+    "playerName": "Joe Harris"
   },
   "Dorian Finney-Smith": {
     "team": "Brooklyn Nets",
     "salary": "$12,938,660  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20757.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20757.png",
+    "playerName": "Dorian Finney-Smith"
   },
   "Royce O'Neale": {
     "team": "Brooklyn Nets",
     "salary": "$9,200,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/24240.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/24240.png",
+    "playerName": "Royce O'Neale"
   },
   "Nicolas Claxton": {
     "team": "Brooklyn Nets",
     "salary": "$8,500,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31590.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31590.png",
+    "playerName": "Nicolas Claxton"
   },
   "Seth Curry": {
     "team": "Brooklyn Nets",
     "salary": "$8,496,653  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13512.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13512.png",
+    "playerName": "Seth Curry"
   },
   "Patty Mills": {
     "team": "Brooklyn Nets",
     "salary": "$6,479,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6322.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6322.png",
+    "playerName": "Patty Mills"
   },
   "Cameron Johnson": {
     "team": "Brooklyn Nets",
     "salary": "$5,887,899  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31568.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31568.png",
+    "playerName": "Cameron Johnson"
   },
   "Cameron Thomas": {
     "team": "Brooklyn Nets",
     "salary": "$2,138,160  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74134.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74134.png",
+    "playerName": "Cameron Thomas"
   },
   "Day'Ron Sharpe": {
     "team": "Brooklyn Nets",
     "salary": "$2,109,480  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74136.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74136.png",
+    "playerName": "Day'Ron Sharpe"
   },
   "Edmond Sumner": {
     "team": "Brooklyn Nets",
     "salary": "$1,968,175  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23653.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23653.png",
+    "playerName": "Edmond Sumner"
   },
   "Yuta Watanabe": {
     "team": "Brooklyn Nets",
     "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27713.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27713.png",
+    "playerName": "Yuta Watanabe"
+  },
+  "Myles Turner": {
+    "team": "Indiana Pacers",
+    "salary": "$35,069,500  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17839.png",
+    "playerName": "Myles Turner"
+  },
+  "Buddy Hield": {
+    "team": "Indiana Pacers",
+    "salary": "$21,177,750  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20211.png",
+    "playerName": "Buddy Hield"
+  },
+  "Daniel Theis": {
+    "team": "Indiana Pacers",
+    "salary": "$8,694,369  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23828.png",
+    "playerName": "Daniel Theis"
+  },
+  "T.J. McConnell": {
+    "team": "Indiana Pacers",
+    "salary": "$8,100,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/18252.png",
+    "playerName": "T.J. McConnell"
+  },
+  "Bennedict Mathurin": {
+    "team": "Indiana Pacers",
+    "salary": "$6,586,800  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78115.png",
+    "playerName": "Bennedict Mathurin"
+  },
+  "Jalen Smith": {
+    "team": "Indiana Pacers",
+    "salary": "$4,670,160  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70652.png",
+    "playerName": "Jalen Smith"
+  },
+  "Tyrese Haliburton": {
+    "team": "Indiana Pacers",
+    "salary": "$4,215,120  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70654.png",
+    "playerName": "Tyrese Haliburton"
+  },
+  "George Hill": {
+    "team": "Indiana Pacers",
+    "salary": "$4,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6154.png",
+    "playerName": "George Hill"
+  },
+  "Chris Duarte": {
+    "team": "Indiana Pacers",
+    "salary": "$3,936,960  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74120.png",
+    "playerName": "Chris Duarte"
+  },
+  "Aaron Nesmith": {
+    "team": "Indiana Pacers",
+    "salary": "$3,804,360  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70656.png",
+    "playerName": "Aaron Nesmith"
+  },
+  "Jordan Nwora": {
+    "team": "Indiana Pacers",
+    "salary": "$3,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70687.png",
+    "playerName": "Jordan Nwora"
+  },
+  "Isaiah Jackson": {
+    "team": "Indiana Pacers",
+    "salary": "$2,573,760  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74129.png",
+    "playerName": "Isaiah Jackson"
+  },
+  "Andrew Nembhard": {
+    "team": "Indiana Pacers",
+    "salary": "$2,244,111  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78137.png",
+    "playerName": "Andrew Nembhard"
+  },
+  "Oshae Brissett": {
+    "team": "Indiana Pacers",
+    "salary": "$1,846,738  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32418.png",
+    "playerName": "Oshae Brissett"
+  },
+  "James Johnson": {
+    "team": "Indiana Pacers",
+    "salary": "$590,926  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6279.png",
+    "playerName": "James Johnson"
+  },
+  "Jonathan Isaac": {
+    "team": "Orlando Magic",
+    "salary": "$17,400,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23601.png",
+    "playerName": "Jonathan Isaac"
+  },
+  "Markelle Fultz": {
+    "team": "Orlando Magic",
+    "salary": "$16,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23596.png",
+    "playerName": "Markelle Fultz"
+  },
+  "Wendell Carter Jr.": {
+    "team": "Orlando Magic",
+    "salary": "$14,150,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26973.png",
+    "playerName": "Wendell Carter Jr."
+  },
+  "Patrick Beverley": {
+    "team": "Orlando Magic",
+    "salary": "$13,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6297.png",
+    "playerName": "Patrick Beverley"
+  },
+  "Gary Harris": {
+    "team": "Orlando Magic",
+    "salary": "$13,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15371.png",
+    "playerName": "Gary Harris"
+  },
+  "Paolo Banchero": {
+    "team": "Orlando Magic",
+    "salary": "$11,055,120  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78110.png",
+    "playerName": "Paolo Banchero"
+  },
+  "Jalen Suggs": {
+    "team": "Orlando Magic",
+    "salary": "$6,922,320  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74112.png",
+    "playerName": "Jalen Suggs"
+  },
+  "Franz Wagner": {
+    "team": "Orlando Magic",
+    "salary": "$5,258,280  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74115.png",
+    "playerName": "Franz Wagner"
+  },
+  "Cole Anthony": {
+    "team": "Orlando Magic",
+    "salary": "$3,613,680  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70657.png",
+    "playerName": "Cole Anthony"
+  },
+  "Chuma Okeke": {
+    "team": "Orlando Magic",
+    "salary": "$3,433,320  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31573.png",
+    "playerName": "Chuma Okeke"
+  },
+  "RJ Hampton": {
+    "team": "Orlando Magic",
+    "salary": "$2,412,840  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70666.png",
+    "playerName": "RJ Hampton"
+  },
+  "Bol Bol": {
+    "team": "Orlando Magic",
+    "salary": "$2,200,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31603.png",
+    "playerName": "Bol Bol"
+  },
+  "Caleb Houstan": {
+    "team": "Orlando Magic",
+    "salary": "$2,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78142.png",
+    "playerName": "Caleb Houstan"
+  },
+  "Moritz Wagner": {
+    "team": "Orlando Magic",
+    "salary": "$1,878,720  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26991.png",
+    "playerName": "Moritz Wagner"
+  },
+  "Goga Bitadze": {
+    "team": "Orlando Magic",
+    "salary": "$590,926  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31575.png",
+    "playerName": "Goga Bitadze"
+  },
+  "Donovan Mitchell": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$30,913,750  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23608.png",
+    "playerName": "Donovan Mitchell"
+  },
+  "Jarrett Allen": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$20,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23617.png",
+    "playerName": "Jarrett Allen"
+  },
+  "Caris LeVert": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$18,796,296  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20225.png",
+    "playerName": "Caris LeVert"
+  },
+  "Darius Garland": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$8,920,795  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31562.png",
+    "playerName": "Darius Garland"
+  },
+  "Evan Mobley": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$8,478,720  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74110.png",
+    "playerName": "Evan Mobley"
+  },
+  "Cedi Osman": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$7,426,088  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17859.png",
+    "playerName": "Cedi Osman"
+  },
+  "Isaac Okoro": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$7,040,880  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70647.png",
+    "playerName": "Isaac Okoro"
+  },
+  "Ricky Rubio": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$5,853,659  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6305.png",
+    "playerName": "Ricky Rubio"
+  },
+  "Dylan Windler": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$4,037,278  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31585.png",
+    "playerName": "Dylan Windler"
+  },
+  "Danny Green": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$2,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6277.png",
+    "playerName": "Danny Green"
+  },
+  "Dean Wade": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$1,930,681  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31963.png",
+    "playerName": "Dean Wade"
+  },
+  "Robin Lopez": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6147.png",
+    "playerName": "Robin Lopez"
+  },
+  "Raul Neto": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13360.png",
+    "playerName": "Raul Neto"
+  },
+  "Lamar Stevens": {
+    "team": "Cleveland Cavaliers",
+    "salary": "$1,782,621  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70716.png",
+    "playerName": "Lamar Stevens"
+  },
+  "Russell Westbrook": {
+    "team": "Utah Jazz",
+    "salary": "$47,063,478  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6141.png",
+    "playerName": "Russell Westbrook"
+  },
+  "Collin Sexton": {
+    "team": "Utah Jazz",
+    "salary": "$16,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26974.png",
+    "playerName": "Collin Sexton"
+  },
+  "Lauri Markkanen": {
+    "team": "Utah Jazz",
+    "salary": "$16,475,454  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23602.png",
+    "playerName": "Lauri Markkanen"
+  },
+  "Jordan Clarkson": {
+    "team": "Utah Jazz",
+    "salary": "$13,340,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15398.png",
+    "playerName": "Jordan Clarkson"
+  },
+  "Kelly Olynyk": {
+    "team": "Utah Jazz",
+    "salary": "$12,804,878  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13326.png",
+    "playerName": "Kelly Olynyk"
+  },
+  "Talen Horton-Tucker": {
+    "team": "Utah Jazz",
+    "salary": "$10,260,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31605.png",
+    "playerName": "Talen Horton-Tucker"
+  },
+  "Rudy Gay": {
+    "team": "Utah Jazz",
+    "salary": "$6,184,500  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2534.png",
+    "playerName": "Rudy Gay"
+  },
+  "Ochai Agbaji": {
+    "team": "Utah Jazz",
+    "salary": "$3,918,360  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78124.png",
+    "playerName": "Ochai Agbaji"
+  },
+  "Simone Fontecchio": {
+    "team": "Utah Jazz",
+    "salary": "$3,205,128  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78654.png",
+    "playerName": "Simone Fontecchio"
+  },
+  "Walker Kessler": {
+    "team": "Utah Jazz",
+    "salary": "$2,696,400  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78133.png",
+    "playerName": "Walker Kessler"
+  },
+  "Leandro Bolmaro": {
+    "team": "Utah Jazz",
+    "salary": "$2,471,160  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70665.png",
+    "playerName": "Leandro Bolmaro"
+  },
+  "Damian Jones": {
+    "team": "Utah Jazz",
+    "salary": "$2,298,385  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20235.png",
+    "playerName": "Damian Jones"
+  },
+  "Udoka Azubuike": {
+    "team": "Utah Jazz",
+    "salary": "$2,174,880  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70669.png",
+    "playerName": "Udoka Azubuike"
+  },
+  "Juan Toscano-Anderson": {
+    "team": "Utah Jazz",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32831.png",
+    "playerName": "Juan Toscano-Anderson"
+  },
+  "Jimmy Butler": {
+    "team": "Miami Heat",
+    "salary": "$37,653,300  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8081.png",
+    "playerName": "Jimmy Butler"
+  },
+  "Bam Adebayo": {
+    "team": "Miami Heat",
+    "salary": "$30,351,780  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23609.png",
+    "playerName": "Bam Adebayo"
+  },
+  "Kyle Lowry": {
+    "team": "Miami Heat",
+    "salary": "$28,333,334  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2536.png",
+    "playerName": "Kyle Lowry"
+  },
+  "Duncan Robinson": {
+    "team": "Miami Heat",
+    "salary": "$16,902,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27658.png",
+    "playerName": "Duncan Robinson"
+  },
+  "Victor Oladipo": {
+    "team": "Miami Heat",
+    "salary": "$8,750,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13315.png",
+    "playerName": "Victor Oladipo"
+  },
+  "Caleb Martin": {
+    "team": "Miami Heat",
+    "salary": "$6,479,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32682.png",
+    "playerName": "Caleb Martin"
+  },
+  "Tyler Herro": {
+    "team": "Miami Heat",
+    "salary": "$5,722,116  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31570.png",
+    "playerName": "Tyler Herro"
+  },
+  "Nikola Jovic": {
+    "team": "Miami Heat",
+    "salary": "$2,239,920  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78135.png",
+    "playerName": "Nikola Jovic"
+  },
+  "Udonis Haslem": {
+    "team": "Miami Heat",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2549.png",
+    "playerName": "Udonis Haslem"
+  },
+  "Max Strus": {
+    "team": "Miami Heat",
+    "salary": "$1,815,677  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32411.png",
+    "playerName": "Max Strus"
+  },
+  "Gabe Vincent": {
+    "team": "Miami Heat",
+    "salary": "$1,815,677  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/28087.png",
+    "playerName": "Gabe Vincent"
+  },
+  "Haywood Highsmith": {
+    "team": "Miami Heat",
+    "salary": "$1,752,638  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/28301.png",
+    "playerName": "Haywood Highsmith"
+  },
+  "Omer Yurtseven": {
+    "team": "Miami Heat",
+    "salary": "$1,752,638  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70706.png",
+    "playerName": "Omer Yurtseven"
+  },
+  "Jamaree Bouyea": {
+    "team": "Miami Heat",
+    "salary": "$58,493  ",
+    "playerName": "Jamaree Bouyea"
+  },
+  "Rudy Gobert": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$38,172,414  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13340.png",
+    "playerName": "Rudy Gobert"
+  },
+  "Karl-Anthony Towns": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$33,833,400  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17829.png",
+    "playerName": "Karl-Anthony Towns"
+  },
+  "Mike Conley": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$22,680,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2532.png",
+    "playerName": "Mike Conley"
+  },
+  "Anthony Edwards": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$10,733,400  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70643.png",
+    "playerName": "Anthony Edwards"
+  },
+  "Kyle Anderson": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$8,780,488  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15382.png",
+    "playerName": "Kyle Anderson"
+  },
+  "Taurean Prince": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$7,295,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20217.png",
+    "playerName": "Taurean Prince"
+  },
+  "Nickeil Alexander-Walker": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$5,009,633  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31574.png",
+    "playerName": "Nickeil Alexander-Walker"
+  },
+  "Wendell Moore Jr.": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$2,306,520  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78145.png",
+    "playerName": "Wendell Moore Jr."
+  },
+  "Jaden McDaniels": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$2,161,440  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70670.png",
+    "playerName": "Jaden McDaniels"
+  },
+  "Jordan McLaughlin": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$2,160,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27975.png",
+    "playerName": "Jordan McLaughlin"
+  },
+  "Jaylen Nowell": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$1,930,681  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31602.png",
+    "playerName": "Jaylen Nowell"
+  },
+  "Naz Reid": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$1,930,681  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32045.png",
+    "playerName": "Naz Reid"
+  },
+  "Austin Rivers": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10818.png",
+    "playerName": "Austin Rivers"
+  },
+  "Nathan Knight": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70772.png",
+    "playerName": "Nathan Knight"
+  },
+  "Josh Minott": {
+    "team": "Minnesota Timberwolves",
+    "salary": "$1,017,781  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78156.png",
+    "playerName": "Josh Minott"
+  },
+  "Jalen Brunson": {
+    "team": "New York Knicks",
+    "salary": "$27,733,332  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26999.png",
+    "playerName": "Jalen Brunson"
+  },
+  "Julius Randle": {
+    "team": "New York Knicks",
+    "salary": "$23,760,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15359.png",
+    "playerName": "Julius Randle"
+  },
+  "Evan Fournier": {
+    "team": "New York Knicks",
+    "salary": "$18,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10845.png",
+    "playerName": "Evan Fournier"
+  },
+  "Mitchell Robinson": {
+    "team": "New York Knicks",
+    "salary": "$17,045,454  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27002.png",
+    "playerName": "Mitchell Robinson"
+  },
+  "Derrick Rose": {
+    "team": "New York Knicks",
+    "salary": "$14,520,730  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6095.png",
+    "playerName": "Derrick Rose"
+  },
+  "Josh Hart": {
+    "team": "New York Knicks",
+    "salary": "$12,960,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23625.png",
+    "playerName": "Josh Hart"
+  },
+  "R.J. Barrett": {
+    "team": "New York Knicks",
+    "salary": "$10,900,635  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31560.png",
+    "playerName": "R.J. Barrett"
+  },
+  "Isaiah Hartenstein": {
+    "team": "New York Knicks",
+    "salary": "$7,804,879  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23644.png",
+    "playerName": "Isaiah Hartenstein"
+  },
+  "Obi Toppin": {
+    "team": "New York Knicks",
+    "salary": "$5,348,280  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70650.png",
+    "playerName": "Obi Toppin"
+  },
+  "Immanuel Quickley": {
+    "team": "New York Knicks",
+    "salary": "$2,316,240  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70667.png",
+    "playerName": "Immanuel Quickley"
+  },
+  "Quentin Grimes": {
+    "team": "New York Knicks",
+    "salary": "$2,277,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74132.png",
+    "playerName": "Quentin Grimes"
+  },
+  "Jericho Sims": {
+    "team": "New York Knicks",
+    "salary": "$1,637,966  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74166.png",
+    "playerName": "Jericho Sims"
+  },
+  "Miles McBride": {
+    "team": "New York Knicks",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74143.png",
+    "playerName": "Miles McBride"
+  },
+  "Stephen Curry": {
+    "team": "Golden State Warriors",
+    "salary": "$48,070,014  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6287.png",
+    "playerName": "Stephen Curry"
+  },
+  "Klay Thompson": {
+    "team": "Golden State Warriors",
+    "salary": "$40,600,080  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8062.png",
+    "playerName": "Klay Thompson"
+  },
+  "Andrew Wiggins": {
+    "team": "Golden State Warriors",
+    "salary": "$33,616,770  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15353.png",
+    "playerName": "Andrew Wiggins"
+  },
+  "Draymond Green": {
+    "team": "Golden State Warriors",
+    "salary": "$25,806,469  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10860.png",
+    "playerName": "Draymond Green"
+  },
+  "Gary Payton II": {
+    "team": "Golden State Warriors",
+    "salary": "$8,300,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20272.png",
+    "playerName": "Gary Payton II"
+  },
+  "Kevon Looney": {
+    "team": "Golden State Warriors",
+    "salary": "$7,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17858.png",
+    "playerName": "Kevon Looney"
+  },
+  "Jonathan Kuminga": {
+    "team": "Golden State Warriors",
+    "salary": "$5,739,840  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74114.png",
+    "playerName": "Jonathan Kuminga"
+  },
+  "Donte DiVincenzo": {
+    "team": "Golden State Warriors",
+    "salary": "$4,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26983.png",
+    "playerName": "Donte DiVincenzo"
+  },
+  "Jordan Poole": {
+    "team": "Golden State Warriors",
+    "salary": "$3,901,399  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31587.png",
+    "playerName": "Jordan Poole"
+  },
+  "Moses Moody": {
+    "team": "Golden State Warriors",
+    "salary": "$3,740,160  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74121.png",
+    "playerName": "Moses Moody"
+  },
+  "Patrick Baldwin Jr.": {
+    "team": "Golden State Warriors",
+    "salary": "$2,226,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78139.png",
+    "playerName": "Patrick Baldwin Jr."
+  },
+  "Andre Iguodala": {
+    "team": "Golden State Warriors",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2652.png",
+    "playerName": "Andre Iguodala"
+  },
+  "JaMychal Green": {
+    "team": "Golden State Warriors",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/11666.png",
+    "playerName": "JaMychal Green"
+  },
+  "Ryan Rollins": {
+    "team": "Golden State Warriors",
+    "salary": "$1,017,781  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78155.png",
+    "playerName": "Ryan Rollins"
   },
   "Kyrie Irving": {
     "team": "Dallas Mavericks",
     "salary": "$38,917,057  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8051.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8051.png",
+    "playerName": "Kyrie Irving"
   },
   "Luka Doncic": {
     "team": "Dallas Mavericks",
     "salary": "$37,096,500  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26969.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26969.png",
+    "playerName": "Luka Doncic"
   },
   "Tim Hardaway Jr.": {
     "team": "Dallas Mavericks",
     "salary": "$19,602,273  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13337.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13337.png",
+    "playerName": "Tim Hardaway Jr."
   },
   "Davis Bertans": {
     "team": "Dallas Mavericks",
     "salary": "$16,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8094.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8094.png",
+    "playerName": "Davis Bertans"
   },
   "Christian Wood": {
     "team": "Dallas Mavericks",
     "salary": "$14,317,459  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/18218.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/18218.png",
+    "playerName": "Christian Wood"
   },
   "Dwight Powell": {
     "team": "Dallas Mavericks",
     "salary": "$11,080,125  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15397.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15397.png",
+    "playerName": "Dwight Powell"
   },
   "Reggie Bullock": {
     "team": "Dallas Mavericks",
     "salary": "$10,012,800  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13338.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13338.png",
+    "playerName": "Reggie Bullock"
   },
   "Maxi Kleber": {
     "team": "Dallas Mavericks",
     "salary": "$9,000,000  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/24212.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/24212.png",
+    "playerName": "Maxi Kleber"
   },
   "JaVale McGee": {
     "team": "Dallas Mavericks",
     "salary": "$5,461,219  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6159.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6159.png",
+    "playerName": "JaVale McGee"
   },
   "Josh Green": {
     "team": "Dallas Mavericks",
     "salary": "$3,098,400  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70660.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70660.png",
+    "playerName": "Josh Green"
   },
   "Frank Ntilikina": {
     "team": "Dallas Mavericks",
     "salary": "$2,036,318  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23603.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23603.png",
+    "playerName": "Frank Ntilikina"
   },
   "Markieff Morris": {
     "team": "Dallas Mavericks",
     "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8064.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8064.png",
+    "playerName": "Markieff Morris"
   },
   "Theo Pinson": {
     "team": "Dallas Mavericks",
     "salary": "$1,836,090  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27827.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27827.png",
+    "playerName": "Theo Pinson"
   },
   "Jaden Hardy": {
     "team": "Dallas Mavericks",
     "salary": "$1,017,781  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78130.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78130.png",
+    "playerName": "Jaden Hardy"
+  },
+  "Justin Holiday": {
+    "team": "Dallas Mavericks",
+    "salary": "$569,821  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/11441.png",
+    "playerName": "Justin Holiday"
   },
   "Chris Silva": {
     "team": "Dallas Mavericks",
     "salary": "$105,522  ",
-    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32319.png"
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32319.png",
+    "playerName": "Chris Silva"
+  },
+  "Paul George": {
+    "team": "Los Angeles Clippers",
+    "salary": "$42,492,568  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6892.png",
+    "playerName": "Paul George"
+  },
+  "Kawhi Leonard": {
+    "team": "Los Angeles Clippers",
+    "salary": "$42,492,492  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8066.png",
+    "playerName": "Kawhi Leonard"
+  },
+  "Eric Gordon": {
+    "team": "Los Angeles Clippers",
+    "salary": "$19,568,360  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6116.png",
+    "playerName": "Eric Gordon"
+  },
+  "Norman Powell": {
+    "team": "Los Angeles Clippers",
+    "salary": "$16,758,621  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17874.png",
+    "playerName": "Norman Powell"
+  },
+  "Marcus Morris Sr.": {
+    "team": "Los Angeles Clippers",
+    "salary": "$16,372,093  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8065.png",
+    "playerName": "Marcus Morris Sr."
+  },
+  "Robert Covington": {
+    "team": "Los Angeles Clippers",
+    "salary": "$12,307,692  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13379.png",
+    "playerName": "Robert Covington"
+  },
+  "Nicolas Batum": {
+    "team": "Los Angeles Clippers",
+    "salary": "$10,843,350  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6149.png",
+    "playerName": "Nicolas Batum"
+  },
+  "Ivica Zubac": {
+    "team": "Los Angeles Clippers",
+    "salary": "$10,123,457  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20238.png",
+    "playerName": "Ivica Zubac"
+  },
+  "Mason Plumlee": {
+    "team": "Los Angeles Clippers",
+    "salary": "$9,080,417  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13335.png",
+    "playerName": "Mason Plumlee"
+  },
+  "Amir Coffey": {
+    "team": "Los Angeles Clippers",
+    "salary": "$3,395,062  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32198.png",
+    "playerName": "Amir Coffey"
+  },
+  "Nah'Shon Hyland": {
+    "team": "Los Angeles Clippers",
+    "salary": "$2,201,520  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74133.png",
+    "playerName": "Nah'Shon Hyland"
+  },
+  "Terance Mann": {
+    "team": "Los Angeles Clippers",
+    "salary": "$1,930,681  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31607.png",
+    "playerName": "Terance Mann"
+  },
+  "Brandon Boston Jr": {
+    "team": "Los Angeles Clippers",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74158.png",
+    "playerName": "Brandon Boston Jr"
+  },
+  "Jason Preston": {
+    "team": "Los Angeles Clippers",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74140.png",
+    "playerName": "Jason Preston"
+  },
+  "Jaren Jackson Jr.": {
+    "team": "Memphis Grizzlies",
+    "salary": "$28,946,605  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26970.png",
+    "playerName": "Jaren Jackson Jr."
+  },
+  "Steven Adams": {
+    "team": "Memphis Grizzlies",
+    "salary": "$17,926,829  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13325.png",
+    "playerName": "Steven Adams"
+  },
+  "Tyus Jones": {
+    "team": "Memphis Grizzlies",
+    "salary": "$15,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17852.png",
+    "playerName": "Tyus Jones"
+  },
+  "Luke Kennard": {
+    "team": "Memphis Grizzlies",
+    "salary": "$14,415,545  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23607.png",
+    "playerName": "Luke Kennard"
+  },
+  "Ja Morant": {
+    "team": "Memphis Grizzlies",
+    "salary": "$12,119,440  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31559.png",
+    "playerName": "Ja Morant"
+  },
+  "Dillon Brooks": {
+    "team": "Memphis Grizzlies",
+    "salary": "$11,400,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23646.png",
+    "playerName": "Dillon Brooks"
+  },
+  "Ziaire Williams": {
+    "team": "Memphis Grizzlies",
+    "salary": "$4,591,680  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74117.png",
+    "playerName": "Ziaire Williams"
+  },
+  "Brandon Clarke": {
+    "team": "Memphis Grizzlies",
+    "salary": "$4,343,920  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31578.png",
+    "playerName": "Brandon Clarke"
+  },
+  "Jake LaRavia": {
+    "team": "Memphis Grizzlies",
+    "salary": "$3,047,640  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78141.png",
+    "playerName": "Jake LaRavia"
+  },
+  "David Roddy": {
+    "team": "Memphis Grizzlies",
+    "salary": "$2,588,640  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78149.png",
+    "playerName": "David Roddy"
+  },
+  "John Konchar": {
+    "team": "Memphis Grizzlies",
+    "salary": "$2,300,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32170.png",
+    "playerName": "John Konchar"
+  },
+  "Desmond Bane": {
+    "team": "Memphis Grizzlies",
+    "salary": "$2,130,240  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70672.png",
+    "playerName": "Desmond Bane"
+  },
+  "Santi Aldama": {
+    "team": "Memphis Grizzlies",
+    "salary": "$2,094,120  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74137.png",
+    "playerName": "Santi Aldama"
+  },
+  "Xavier Tillman": {
+    "team": "Memphis Grizzlies",
+    "salary": "$1,782,621  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70677.png",
+    "playerName": "Xavier Tillman"
+  },
+  "Kennedy Chandler": {
+    "team": "Memphis Grizzlies",
+    "salary": "$1,200,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78127.png",
+    "playerName": "Kennedy Chandler"
+  },
+  "LeBron James": {
+    "team": "Los Angeles Lakers",
+    "salary": "$44,474,988  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2257.png",
+    "playerName": "LeBron James"
+  },
+  "Anthony Davis": {
+    "team": "Los Angeles Lakers",
+    "salary": "$37,980,720  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10809.png",
+    "playerName": "Anthony Davis"
+  },
+  "D'Angelo Russell": {
+    "team": "Los Angeles Lakers",
+    "salary": "$31,377,750  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17830.png",
+    "playerName": "D'Angelo Russell"
+  },
+  "Malik Beasley": {
+    "team": "Los Angeles Lakers",
+    "salary": "$15,558,035  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20224.png",
+    "playerName": "Malik Beasley"
+  },
+  "Mohamed Bamba": {
+    "team": "Los Angeles Lakers",
+    "salary": "$10,300,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26972.png",
+    "playerName": "Mohamed Bamba"
+  },
+  "Lonnie Walker IV": {
+    "team": "Los Angeles Lakers",
+    "salary": "$6,479,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26984.png",
+    "playerName": "Lonnie Walker IV"
+  },
+  "Rui Hachimura": {
+    "team": "Los Angeles Lakers",
+    "salary": "$6,263,188  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31566.png",
+    "playerName": "Rui Hachimura"
+  },
+  "Jarred Vanderbilt": {
+    "team": "Los Angeles Lakers",
+    "salary": "$4,374,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27007.png",
+    "playerName": "Jarred Vanderbilt"
+  },
+  "Davon Reed": {
+    "team": "Los Angeles Lakers",
+    "salary": "$1,902,133  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23627.png",
+    "playerName": "Davon Reed"
+  },
+  "Wenyen Gabriel": {
+    "team": "Los Angeles Lakers",
+    "salary": "$1,878,720  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27806.png",
+    "playerName": "Wenyen Gabriel"
+  },
+  "Dennis Schröder": {
+    "team": "Los Angeles Lakers",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13330.png",
+    "playerName": "Dennis Schröder"
+  },
+  "Troy Brown Jr.": {
+    "team": "Los Angeles Lakers",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26981.png",
+    "playerName": "Troy Brown Jr."
+  },
+  "Austin Reaves": {
+    "team": "Los Angeles Lakers",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74218.png",
+    "playerName": "Austin Reaves"
+  },
+  "Max Christie": {
+    "team": "Los Angeles Lakers",
+    "salary": "$1,017,781  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78136.png",
+    "playerName": "Max Christie"
+  },
+  "Sterling Brown": {
+    "team": "Los Angeles Lakers",
+    "salary": "$105,522  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23647.png",
+    "playerName": "Sterling Brown"
+  },
+  "Giannis Antetokounmpo": {
+    "team": "Milwaukee Bucks",
+    "salary": "$42,492,492  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13328.png",
+    "playerName": "Giannis Antetokounmpo"
+  },
+  "Khris Middleton": {
+    "team": "Milwaukee Bucks",
+    "salary": "$37,948,276  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10864.png",
+    "playerName": "Khris Middleton"
+  },
+  "Jrue Holiday": {
+    "team": "Milwaukee Bucks",
+    "salary": "$33,665,040  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6316.png",
+    "playerName": "Jrue Holiday"
+  },
+  "Brook Lopez": {
+    "team": "Milwaukee Bucks",
+    "salary": "$13,906,976  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6136.png",
+    "playerName": "Brook Lopez"
+  },
+  "Bobby Portis": {
+    "team": "Milwaukee Bucks",
+    "salary": "$10,843,350  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17850.png",
+    "playerName": "Bobby Portis"
+  },
+  "Jae Crowder": {
+    "team": "Milwaukee Bucks",
+    "salary": "$10,183,800  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10859.png",
+    "playerName": "Jae Crowder"
+  },
+  "Grayson Allen": {
+    "team": "Milwaukee Bucks",
+    "salary": "$8,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26987.png",
+    "playerName": "Grayson Allen"
+  },
+  "Joe Ingles": {
+    "team": "Milwaukee Bucks",
+    "salary": "$6,479,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15852.png",
+    "playerName": "Joe Ingles"
+  },
+  "Pat Connaughton": {
+    "team": "Milwaukee Bucks",
+    "salary": "$5,728,393  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17869.png",
+    "playerName": "Pat Connaughton"
+  },
+  "MarJon Beauchamp": {
+    "team": "Milwaukee Bucks",
+    "salary": "$2,485,200  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78134.png",
+    "playerName": "MarJon Beauchamp"
+  },
+  "Jevon Carter": {
+    "team": "Milwaukee Bucks",
+    "salary": "$2,100,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26998.png",
+    "playerName": "Jevon Carter"
+  },
+  "Thanasis Antetokounmpo": {
+    "team": "Milwaukee Bucks",
+    "salary": "$1,878,720  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15403.png",
+    "playerName": "Thanasis Antetokounmpo"
+  },
+  "Wesley Matthews": {
+    "team": "Milwaukee Bucks",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6489.png",
+    "playerName": "Wesley Matthews"
+  },
+  "Damian Lillard": {
+    "team": "Portland Trail Blazers",
+    "salary": "$42,492,492  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10814.png",
+    "playerName": "Damian Lillard"
+  },
+  "Anfernee Simons": {
+    "team": "Portland Trail Blazers",
+    "salary": "$22,321,429  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26990.png",
+    "playerName": "Anfernee Simons"
+  },
+  "Jerami Grant": {
+    "team": "Portland Trail Blazers",
+    "salary": "$20,955,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15391.png",
+    "playerName": "Jerami Grant"
+  },
+  "Jusuf Nurkic": {
+    "team": "Portland Trail Blazers",
+    "salary": "$15,625,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15368.png",
+    "playerName": "Jusuf Nurkic"
+  },
+  "Shaedon Sharpe": {
+    "team": "Portland Trail Blazers",
+    "salary": "$6,012,960  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78113.png",
+    "playerName": "Shaedon Sharpe"
+  },
+  "Cam Reddish": {
+    "team": "Portland Trail Blazers",
+    "salary": "$5,954,454  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31567.png",
+    "playerName": "Cam Reddish"
+  },
+  "Matisse Thybulle": {
+    "team": "Portland Trail Blazers",
+    "salary": "$4,379,527  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31577.png",
+    "playerName": "Matisse Thybulle"
+  },
+  "Nassir Little": {
+    "team": "Portland Trail Blazers",
+    "salary": "$4,171,548  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31583.png",
+    "playerName": "Nassir Little"
+  },
+  "Justise Winslow": {
+    "team": "Portland Trail Blazers",
+    "salary": "$4,097,561  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17838.png",
+    "playerName": "Justise Winslow"
+  },
+  "Kevin Knox": {
+    "team": "Portland Trail Blazers",
+    "salary": "$3,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26975.png",
+    "playerName": "Kevin Knox"
+  },
+  "Keon Johnson": {
+    "team": "Portland Trail Blazers",
+    "salary": "$2,681,040  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74128.png",
+    "playerName": "Keon Johnson"
+  },
+  "Ryan Arcidiacono": {
+    "team": "Portland Trail Blazers",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20275.png",
+    "playerName": "Ryan Arcidiacono"
+  },
+  "Drew Eubanks": {
+    "team": "Portland Trail Blazers",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/28052.png",
+    "playerName": "Drew Eubanks"
+  },
+  "Trendon Watford": {
+    "team": "Portland Trail Blazers",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74232.png",
+    "playerName": "Trendon Watford"
+  },
+  "Jabari Walker": {
+    "team": "Portland Trail Blazers",
+    "salary": "$1,017,781  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78167.png",
+    "playerName": "Jabari Walker"
+  },
+  "C.J. McCollum": {
+    "team": "New Orleans Pelicans",
+    "salary": "$33,333,333  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13323.png",
+    "playerName": "C.J. McCollum"
+  },
+  "Brandon Ingram": {
+    "team": "New Orleans Pelicans",
+    "salary": "$31,650,600  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20207.png",
+    "playerName": "Brandon Ingram"
+  },
+  "Jonas Valanciunas": {
+    "team": "New Orleans Pelicans",
+    "salary": "$14,700,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8055.png",
+    "playerName": "Jonas Valanciunas"
+  },
+  "Zion Williamson": {
+    "team": "New Orleans Pelicans",
+    "salary": "$13,534,817  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31558.png",
+    "playerName": "Zion Williamson"
+  },
+  "Josh Richardson": {
+    "team": "New Orleans Pelicans",
+    "salary": "$12,196,094  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17868.png",
+    "playerName": "Josh Richardson"
+  },
+  "Larry Nance Jr.": {
+    "team": "New Orleans Pelicans",
+    "salary": "$9,672,727  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17855.png",
+    "playerName": "Larry Nance Jr."
+  },
+  "Jaxson Hayes": {
+    "team": "New Orleans Pelicans",
+    "salary": "$6,803,012  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31565.png",
+    "playerName": "Jaxson Hayes"
+  },
+  "Dyson Daniels": {
+    "team": "New Orleans Pelicans",
+    "salary": "$5,508,600  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78114.png",
+    "playerName": "Dyson Daniels"
+  },
+  "Garrett Temple": {
+    "team": "New Orleans Pelicans",
+    "salary": "$5,155,500  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6492.png",
+    "playerName": "Garrett Temple"
+  },
+  "Kira Lewis Jr.": {
+    "team": "New Orleans Pelicans",
+    "salary": "$4,004,280  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70655.png",
+    "playerName": "Kira Lewis Jr."
+  },
+  "Trey Murphy III": {
+    "team": "New Orleans Pelicans",
+    "salary": "$3,206,520  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74124.png",
+    "playerName": "Trey Murphy III"
+  },
+  "Willy Hernangomez": {
+    "team": "New Orleans Pelicans",
+    "salary": "$2,443,581  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17863.png",
+    "playerName": "Willy Hernangomez"
+  },
+  "Herbert Jones": {
+    "team": "New Orleans Pelicans",
+    "salary": "$1,785,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74142.png",
+    "playerName": "Herbert Jones"
+  },
+  "Naji Marshall": {
+    "team": "New Orleans Pelicans",
+    "salary": "$1,782,621  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70704.png",
+    "playerName": "Naji Marshall"
+  },
+  "Jose Alvarado": {
+    "team": "New Orleans Pelicans",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74331.png",
+    "playerName": "Jose Alvarado"
+  },
+  "Trae Young": {
+    "team": "Atlanta Hawks",
+    "salary": "$37,096,500  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26971.png",
+    "playerName": "Trae Young"
+  },
+  "John Collins": {
+    "team": "Atlanta Hawks",
+    "salary": "$23,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23614.png",
+    "playerName": "John Collins"
+  },
+  "Clint Capela": {
+    "team": "Atlanta Hawks",
+    "salary": "$18,706,897  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15377.png",
+    "playerName": "Clint Capela"
+  },
+  "Bogdan Bogdanovic": {
+    "team": "Atlanta Hawks",
+    "salary": "$18,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15379.png",
+    "playerName": "Bogdan Bogdanovic"
+  },
+  "Dejounte Murray": {
+    "team": "Atlanta Hawks",
+    "salary": "$16,571,120  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20234.png",
+    "playerName": "Dejounte Murray"
+  },
+  "De'Andre Hunter": {
+    "team": "Atlanta Hawks",
+    "salary": "$9,835,881  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31561.png",
+    "playerName": "De'Andre Hunter"
+  },
+  "Onyeka Okongwu": {
+    "team": "Atlanta Hawks",
+    "salary": "$6,395,160  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70648.png",
+    "playerName": "Onyeka Okongwu"
+  },
+  "A.J. Griffin": {
+    "team": "Atlanta Hawks",
+    "salary": "$3,536,160  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78119.png",
+    "playerName": "A.J. Griffin"
+  },
+  "Saddiq Bey": {
+    "team": "Atlanta Hawks",
+    "salary": "$2,959,080  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70661.png",
+    "playerName": "Saddiq Bey"
+  },
+  "Jalen Johnson": {
+    "team": "Atlanta Hawks",
+    "salary": "$2,792,640  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74127.png",
+    "playerName": "Jalen Johnson"
+  },
+  "Bruno Fernando": {
+    "team": "Atlanta Hawks",
+    "salary": "$2,717,391  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31593.png",
+    "playerName": "Bruno Fernando"
+  },
+  "Garrison Mathews": {
+    "team": "Atlanta Hawks",
+    "salary": "$2,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32044.png",
+    "playerName": "Garrison Mathews"
+  },
+  "Aaron Holiday": {
+    "team": "Atlanta Hawks",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26989.png",
+    "playerName": "Aaron Holiday"
+  },
+  "Vit Krejci": {
+    "team": "Atlanta Hawks",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70679.png",
+    "playerName": "Vit Krejci"
+  },
+  "Tyrese Martin": {
+    "team": "Atlanta Hawks",
+    "salary": "$1,017,781  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78162.png",
+    "playerName": "Tyrese Martin"
+  },
+  "Derrick Favors": {
+    "team": "Atlanta Hawks",
+    "salary": "$105,522  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6884.png",
+    "playerName": "Derrick Favors"
+  },
+  "Jalen Green": {
+    "team": "Houston Rockets",
+    "salary": "$9,441,840  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74109.png",
+    "playerName": "Jalen Green"
+  },
+  "Jabari Smith Jr.": {
+    "team": "Houston Rockets",
+    "salary": "$8,882,640  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78109.png",
+    "playerName": "Jabari Smith Jr."
+  },
+  "Jae’Sean Tate": {
+    "team": "Houston Rockets",
+    "salary": "$7,065,217  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70758.png",
+    "playerName": "Jae’Sean Tate"
+  },
+  "Alperen Sengun": {
+    "team": "Houston Rockets",
+    "salary": "$3,375,360  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74123.png",
+    "playerName": "Alperen Sengun"
+  },
+  "Tari Eason": {
+    "team": "Houston Rockets",
+    "salary": "$3,359,160  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78123.png",
+    "playerName": "Tari Eason"
+  },
+  "Kevin Porter Jr.": {
+    "team": "Houston Rockets",
+    "salary": "$3,217,631  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31589.png",
+    "playerName": "Kevin Porter Jr."
+  },
+  "Usman Garuba": {
+    "team": "Houston Rockets",
+    "salary": "$2,471,160  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74130.png",
+    "playerName": "Usman Garuba"
+  },
+  "Josh Christopher": {
+    "team": "Houston Rockets",
+    "salary": "$2,372,160  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74131.png",
+    "playerName": "Josh Christopher"
+  },
+  "TyTy Washington Jr.": {
+    "team": "Houston Rockets",
+    "salary": "$2,210,040  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78125.png",
+    "playerName": "TyTy Washington Jr."
+  },
+  "Frank Kaminsky": {
+    "team": "Houston Rockets",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17837.png",
+    "playerName": "Frank Kaminsky"
+  },
+  "Kenyon Martin Jr.": {
+    "team": "Houston Rockets",
+    "salary": "$1,782,621  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70694.png",
+    "playerName": "Kenyon Martin Jr."
+  },
+  "Daishen Nix": {
+    "team": "Houston Rockets",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74357.png",
+    "playerName": "Daishen Nix"
+  },
+  "Boban Marjanovic": {
+    "team": "Houston Rockets",
+    "salary": "$601,478  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17984.png",
+    "playerName": "Boban Marjanovic"
+  },
+  "Shai Gilgeous-Alexander": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$30,913,750  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26977.png",
+    "playerName": "Shai Gilgeous-Alexander"
+  },
+  "Luguentz Dort": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$15,277,778  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/33033.png",
+    "playerName": "Luguentz Dort"
+  },
+  "Chet Holmgren": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$9,891,240  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78108.png",
+    "playerName": "Chet Holmgren"
+  },
+  "Dario Saric": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$9,240,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15364.png",
+    "playerName": "Dario Saric"
+  },
+  "Josh Giddey": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$6,287,400  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74113.png",
+    "playerName": "Josh Giddey"
+  },
+  "Ousmane Dieng": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$4,569,840  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78118.png",
+    "playerName": "Ousmane Dieng"
+  },
+  "Jalen Williams": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$4,341,480  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78126.png",
+    "playerName": "Jalen Williams"
+  },
+  "Aleksej Pokusevski": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$3,261,480  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70659.png",
+    "playerName": "Aleksej Pokusevski"
+  },
+  "Tre Mann": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$3,046,200  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74125.png",
+    "playerName": "Tre Mann"
+  },
+  "Jeremiah Robinson-Earl": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$2,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74139.png",
+    "playerName": "Jeremiah Robinson-Earl"
+  },
+  "Kenrich Williams": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$2,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27758.png",
+    "playerName": "Kenrich Williams"
+  },
+  "Jaylin Williams": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$2,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78150.png",
+    "playerName": "Jaylin Williams"
+  },
+  "Justin Jackson": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23610.png",
+    "playerName": "Justin Jackson"
+  },
+  "Isaiah Joe": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70691.png",
+    "playerName": "Isaiah Joe"
+  },
+  "Aaron Wiggins": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74162.png",
+    "playerName": "Aaron Wiggins"
+  },
+  "Eugene Omoruyi": {
+    "team": "Oklahoma City Thunder",
+    "salary": "$345,110  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74300.png",
+    "playerName": "Eugene Omoruyi"
+  },
+  "Nikola Jokic": {
+    "team": "Denver Nuggets",
+    "salary": "$33,047,804  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15393.png",
+    "playerName": "Nikola Jokic"
+  },
+  "Jamal Murray": {
+    "team": "Denver Nuggets",
+    "salary": "$31,650,600  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20212.png",
+    "playerName": "Jamal Murray"
+  },
+  "Michael Porter Jr.": {
+    "team": "Denver Nuggets",
+    "salary": "$30,913,750  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26980.png",
+    "playerName": "Michael Porter Jr."
+  },
+  "Aaron Gordon": {
+    "team": "Denver Nuggets",
+    "salary": "$19,690,909  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15356.png",
+    "playerName": "Aaron Gordon"
+  },
+  "Kentavious Caldwell-Pope": {
+    "team": "Denver Nuggets",
+    "salary": "$14,004,703  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13321.png",
+    "playerName": "Kentavious Caldwell-Pope"
+  },
+  "Bruce Brown Jr.": {
+    "team": "Denver Nuggets",
+    "salary": "$6,479,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27008.png",
+    "playerName": "Bruce Brown Jr."
+  },
+  "Ishmael Smith": {
+    "team": "Denver Nuggets",
+    "salary": "$4,725,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/7116.png",
+    "playerName": "Ishmael Smith"
+  },
+  "Jeff Green": {
+    "team": "Denver Nuggets",
+    "salary": "$4,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2720.png",
+    "playerName": "Jeff Green"
+  },
+  "Christian Braun": {
+    "team": "Denver Nuggets",
+    "salary": "$2,808,600  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78148.png",
+    "playerName": "Christian Braun"
+  },
+  "Zeke Nnaji": {
+    "team": "Denver Nuggets",
+    "salary": "$2,617,800  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70664.png",
+    "playerName": "Zeke Nnaji"
+  },
+  "Vlatko Cancar": {
+    "team": "Denver Nuggets",
+    "salary": "$2,234,359  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23650.png",
+    "playerName": "Vlatko Cancar"
+  },
+  "Peyton Watson": {
+    "team": "Denver Nuggets",
+    "salary": "$2,193,960  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78138.png",
+    "playerName": "Peyton Watson"
+  },
+  "DeAndre Jordan": {
+    "team": "Denver Nuggets",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6117.png",
+    "playerName": "DeAndre Jordan"
+  },
+  "Thomas Bryant": {
+    "team": "Denver Nuggets",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23643.png",
+    "playerName": "Thomas Bryant"
+  },
+  "Reggie Jackson": {
+    "team": "Denver Nuggets",
+    "salary": "$580,373  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8075.png",
+    "playerName": "Reggie Jackson"
+  },
+  "Tobias Harris": {
+    "team": "Philadelphia 76ers",
+    "salary": "$37,633,050  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8070.png",
+    "playerName": "Tobias Harris"
+  },
+  "Joel Embiid": {
+    "team": "Philadelphia 76ers",
+    "salary": "$33,616,770  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15355.png",
+    "playerName": "Joel Embiid"
+  },
+  "James Harden": {
+    "team": "Philadelphia 76ers",
+    "salary": "$33,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6312.png",
+    "playerName": "James Harden"
+  },
+  "P.J. Tucker": {
+    "team": "Philadelphia 76ers",
+    "salary": "$10,490,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/11059.png",
+    "playerName": "P.J. Tucker"
+  },
+  "De'Anthony Melton": {
+    "team": "Philadelphia 76ers",
+    "salary": "$8,250,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27012.png",
+    "playerName": "De'Anthony Melton"
+  },
+  "Furkan Korkmaz": {
+    "team": "Philadelphia 76ers",
+    "salary": "$5,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20231.png",
+    "playerName": "Furkan Korkmaz"
+  },
+  "Danuel House Jr.": {
+    "team": "Philadelphia 76ers",
+    "salary": "$4,105,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20800.png",
+    "playerName": "Danuel House Jr."
+  },
+  "Georges Niang": {
+    "team": "Philadelphia 76ers",
+    "salary": "$3,465,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20256.png",
+    "playerName": "Georges Niang"
+  },
+  "Tyrese Maxey": {
+    "team": "Philadelphia 76ers",
+    "salary": "$2,726,880  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70663.png",
+    "playerName": "Tyrese Maxey"
+  },
+  "Montrezl Harrell": {
+    "team": "Philadelphia 76ers",
+    "salary": "$2,463,490  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17860.png",
+    "playerName": "Montrezl Harrell"
+  },
+  "Jaden Springer": {
+    "team": "Philadelphia 76ers",
+    "salary": "$2,125,200  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74135.png",
+    "playerName": "Jaden Springer"
+  },
+  "Shake Milton": {
+    "team": "Philadelphia 76ers",
+    "salary": "$1,997,718  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27020.png",
+    "playerName": "Shake Milton"
+  },
+  "Jalen McDaniels": {
+    "team": "Philadelphia 76ers",
+    "salary": "$1,930,681  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31611.png",
+    "playerName": "Jalen McDaniels"
+  },
+  "Paul Reed": {
+    "team": "Philadelphia 76ers",
+    "salary": "$1,782,621  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70700.png",
+    "playerName": "Paul Reed"
+  },
+  "Dewayne Dedmon": {
+    "team": "Philadelphia 76ers",
+    "salary": "$580,373  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13536.png",
+    "playerName": "Dewayne Dedmon"
+  },
+  "Gordon Hayward": {
+    "team": "Charlotte Hornets",
+    "salary": "$30,075,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6891.png",
+    "playerName": "Gordon Hayward"
+  },
+  "Terry Rozier": {
+    "team": "Charlotte Hornets",
+    "salary": "$21,486,316  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17844.png",
+    "playerName": "Terry Rozier"
+  },
+  "Kelly Oubre Jr.": {
+    "team": "Charlotte Hornets",
+    "salary": "$12,600,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17843.png",
+    "playerName": "Kelly Oubre Jr."
+  },
+  "LaMelo Ball": {
+    "team": "Charlotte Hornets",
+    "salary": "$8,623,920  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70645.png",
+    "playerName": "LaMelo Ball"
+  },
+  "Cody Martin": {
+    "team": "Charlotte Hornets",
+    "salary": "$7,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31595.png",
+    "playerName": "Cody Martin"
+  },
+  "PJ Washington": {
+    "team": "Charlotte Hornets",
+    "salary": "$5,808,435  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31569.png",
+    "playerName": "PJ Washington"
+  },
+  "James Bouknight": {
+    "team": "Charlotte Hornets",
+    "salary": "$4,362,240  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74118.png",
+    "playerName": "James Bouknight"
+  },
+  "Mark Williams": {
+    "team": "Charlotte Hornets",
+    "salary": "$3,722,040  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78121.png",
+    "playerName": "Mark Williams"
+  },
+  "Kai Jones": {
+    "team": "Charlotte Hornets",
+    "salary": "$2,909,040  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74126.png",
+    "playerName": "Kai Jones"
+  },
+  "Sviatoslav Mykhailiuk": {
+    "team": "Charlotte Hornets",
+    "salary": "$1,968,175  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27013.png",
+    "playerName": "Sviatoslav Mykhailiuk"
+  },
+  "Dennis Smith Jr.": {
+    "team": "Charlotte Hornets",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23604.png",
+    "playerName": "Dennis Smith Jr."
+  },
+  "Nick Richards": {
+    "team": "Charlotte Hornets",
+    "salary": "$1,782,621  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70684.png",
+    "playerName": "Nick Richards"
+  },
+  "JT Thor": {
+    "team": "Charlotte Hornets",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74144.png",
+    "playerName": "JT Thor"
+  },
+  "Zach LaVine": {
+    "team": "Chicago Bulls",
+    "salary": "$37,096,500  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15365.png",
+    "playerName": "Zach LaVine"
+  },
+  "DeMar DeRozan": {
+    "team": "Chicago Bulls",
+    "salary": "$27,300,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6327.png",
+    "playerName": "DeMar DeRozan"
+  },
+  "Nikola Vucevic": {
+    "team": "Chicago Bulls",
+    "salary": "$22,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8067.png",
+    "playerName": "Nikola Vucevic"
+  },
+  "Lonzo Ball": {
+    "team": "Chicago Bulls",
+    "salary": "$19,534,884  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23597.png",
+    "playerName": "Lonzo Ball"
+  },
+  "Alex Caruso": {
+    "team": "Chicago Bulls",
+    "salary": "$9,030,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/21076.png",
+    "playerName": "Alex Caruso"
+  },
+  "Patrick Williams": {
+    "team": "Chicago Bulls",
+    "salary": "$7,775,400  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70646.png",
+    "playerName": "Patrick Williams"
+  },
+  "Coby White": {
+    "team": "Chicago Bulls",
+    "salary": "$7,413,955  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31564.png",
+    "playerName": "Coby White"
+  },
+  "Andre Drummond": {
+    "team": "Chicago Bulls",
+    "salary": "$3,200,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10817.png",
+    "playerName": "Andre Drummond"
+  },
+  "Derrick Jones Jr.": {
+    "team": "Chicago Bulls",
+    "salary": "$3,200,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/21067.png",
+    "playerName": "Derrick Jones Jr."
+  },
+  "Dalen Terry": {
+    "team": "Chicago Bulls",
+    "salary": "$3,191,400  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78128.png",
+    "playerName": "Dalen Terry"
+  },
+  "Tony Bradley": {
+    "team": "Chicago Bulls",
+    "salary": "$2,036,318  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23623.png",
+    "playerName": "Tony Bradley"
+  },
+  "Goran Dragic": {
+    "team": "Chicago Bulls",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6146.png",
+    "playerName": "Goran Dragic"
+  },
+  "Javonte Green": {
+    "team": "Chicago Bulls",
+    "salary": "$1,815,677  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32409.png",
+    "playerName": "Javonte Green"
+  },
+  "Ayo Dosunmu": {
+    "team": "Chicago Bulls",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74145.png",
+    "playerName": "Ayo Dosunmu"
+  },
+  "Marko Simonovic": {
+    "team": "Chicago Bulls",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70686.png",
+    "playerName": "Marko Simonovic"
+  },
+  "Bradley Beal": {
+    "team": "Washington Wizards",
+    "salary": "$43,279,250  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10811.png",
+    "playerName": "Bradley Beal"
+  },
+  "Kristaps Porzingis": {
+    "team": "Washington Wizards",
+    "salary": "$33,833,400  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17832.png",
+    "playerName": "Kristaps Porzingis"
+  },
+  "Will Barton": {
+    "team": "Washington Wizards",
+    "salary": "$14,375,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10865.png",
+    "playerName": "Will Barton"
+  },
+  "Kyle Kuzma": {
+    "team": "Washington Wizards",
+    "salary": "$13,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23622.png",
+    "playerName": "Kyle Kuzma"
+  },
+  "Monte Morris": {
+    "team": "Washington Wizards",
+    "salary": "$9,125,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23652.png",
+    "playerName": "Monte Morris"
+  },
+  "Delon Wright": {
+    "team": "Washington Wizards",
+    "salary": "$7,804,878  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17848.png",
+    "playerName": "Delon Wright"
+  },
+  "Kendrick Nunn": {
+    "team": "Washington Wizards",
+    "salary": "$5,250,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/28041.png",
+    "playerName": "Kendrick Nunn"
+  },
+  "Deni Avdija": {
+    "team": "Washington Wizards",
+    "salary": "$4,916,160  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70651.png",
+    "playerName": "Deni Avdija"
+  },
+  "Johnny Davis": {
+    "team": "Washington Wizards",
+    "salary": "$4,810,320  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78117.png",
+    "playerName": "Johnny Davis"
+  },
+  "Corey Kispert": {
+    "team": "Washington Wizards",
+    "salary": "$3,552,840  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74122.png",
+    "playerName": "Corey Kispert"
+  },
+  "Daniel Gafford": {
+    "team": "Washington Wizards",
+    "salary": "$1,930,681  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31597.png",
+    "playerName": "Daniel Gafford"
+  },
+  "Taj Gibson": {
+    "team": "Washington Wizards",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/6278.png",
+    "playerName": "Taj Gibson"
+  },
+  "Anthony Gill": {
+    "team": "Washington Wizards",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70741.png",
+    "playerName": "Anthony Gill"
+  },
+  "Vernon Carey Jr.": {
+    "team": "Washington Wizards",
+    "salary": "$1,782,621  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70674.png",
+    "playerName": "Vernon Carey Jr."
+  },
+  "Isaiah Todd": {
+    "team": "Washington Wizards",
+    "salary": "$1,575,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74138.png",
+    "playerName": "Isaiah Todd"
+  },
+  "Bojan Bogdanovic": {
+    "team": "Detroit Pistons",
+    "salary": "$19,550,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8083.png",
+    "playerName": "Bojan Bogdanovic"
+  },
+  "Marvin Bagley III": {
+    "team": "Detroit Pistons",
+    "salary": "$12,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26968.png",
+    "playerName": "Marvin Bagley III"
+  },
+  "Cade Cunningham": {
+    "team": "Detroit Pistons",
+    "salary": "$10,552,800  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74108.png",
+    "playerName": "Cade Cunningham"
+  },
+  "Alec Burks": {
+    "team": "Detroit Pistons",
+    "salary": "$10,012,800  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8063.png",
+    "playerName": "Alec Burks"
+  },
+  "James Wiseman": {
+    "team": "Detroit Pistons",
+    "salary": "$9,603,360  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70644.png",
+    "playerName": "James Wiseman"
+  },
+  "Nerlens Noel": {
+    "team": "Detroit Pistons",
+    "salary": "$9,240,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13319.png",
+    "playerName": "Nerlens Noel"
+  },
+  "Jaden Ivey": {
+    "team": "Detroit Pistons",
+    "salary": "$7,252,200  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78111.png",
+    "playerName": "Jaden Ivey"
+  },
+  "Killian Hayes": {
+    "team": "Detroit Pistons",
+    "salary": "$5,837,760  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70649.png",
+    "playerName": "Killian Hayes"
+  },
+  "Hamidou Diallo": {
+    "team": "Detroit Pistons",
+    "salary": "$5,200,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27011.png",
+    "playerName": "Hamidou Diallo"
+  },
+  "Cory Joseph": {
+    "team": "Detroit Pistons",
+    "salary": "$5,155,500  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8080.png",
+    "playerName": "Cory Joseph"
+  },
+  "Jalen Duren": {
+    "team": "Detroit Pistons",
+    "salary": "$4,124,280  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78116.png",
+    "playerName": "Jalen Duren"
+  },
+  "Isaiah Stewart": {
+    "team": "Detroit Pistons",
+    "salary": "$3,433,320  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70658.png",
+    "playerName": "Isaiah Stewart"
+  },
+  "Rodney McGruder": {
+    "team": "Detroit Pistons",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13575.png",
+    "playerName": "Rodney McGruder"
+  },
+  "Isaiah Livers": {
+    "team": "Detroit Pistons",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74149.png",
+    "playerName": "Isaiah Livers"
+  },
+  "Stanley Umude": {
+    "team": "Detroit Pistons",
+    "salary": "$58,493  ",
+    "playerName": "Stanley Umude"
+  },
+  "Doug McDermott": {
+    "team": "San Antonio Spurs",
+    "salary": "$13,750,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15363.png",
+    "playerName": "Doug McDermott"
+  },
+  "Devonte' Graham": {
+    "team": "San Antonio Spurs",
+    "salary": "$11,550,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27000.png",
+    "playerName": "Devonte' Graham"
+  },
+  "Zach Collins": {
+    "team": "San Antonio Spurs",
+    "salary": "$7,350,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23605.png",
+    "playerName": "Zach Collins"
+  },
+  "Khem Birch": {
+    "team": "San Antonio Spurs",
+    "salary": "$6,667,500  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15786.png",
+    "playerName": "Khem Birch"
+  },
+  "Romeo Langford": {
+    "team": "San Antonio Spurs",
+    "salary": "$5,634,257  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31571.png",
+    "playerName": "Romeo Langford"
+  },
+  "Jeremy Sochan": {
+    "team": "San Antonio Spurs",
+    "salary": "$5,063,520  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78122.png",
+    "playerName": "Jeremy Sochan"
+  },
+  "Devin Vassell": {
+    "team": "San Antonio Spurs",
+    "salary": "$4,437,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70653.png",
+    "playerName": "Devin Vassell"
+  },
+  "Keldon Johnson": {
+    "team": "San Antonio Spurs",
+    "salary": "$3,873,025  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31588.png",
+    "playerName": "Keldon Johnson"
+  },
+  "Malaki Branham": {
+    "team": "San Antonio Spurs",
+    "salary": "$2,925,600  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78120.png",
+    "playerName": "Malaki Branham"
+  },
+  "Charles Bassey": {
+    "team": "San Antonio Spurs",
+    "salary": "$2,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74160.png",
+    "playerName": "Charles Bassey"
+  },
+  "Blake Wesley": {
+    "team": "San Antonio Spurs",
+    "salary": "$2,385,480  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78132.png",
+    "playerName": "Blake Wesley"
+  },
+  "Isaiah Roby": {
+    "team": "San Antonio Spurs",
+    "salary": "$1,930,681  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31604.png",
+    "playerName": "Isaiah Roby"
+  },
+  "Keita Bates-Diop": {
+    "team": "San Antonio Spurs",
+    "salary": "$1,878,720  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27014.png",
+    "playerName": "Keita Bates-Diop"
+  },
+  "Tre Jones": {
+    "team": "San Antonio Spurs",
+    "salary": "$1,782,621  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70683.png",
+    "playerName": "Tre Jones"
+  },
+  "Gorgui Dieng": {
+    "team": "San Antonio Spurs",
+    "salary": "$105,522  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13334.png",
+    "playerName": "Gorgui Dieng"
+  },
+  "Kevin Durant": {
+    "team": "Phoenix Suns",
+    "salary": "$44,124,845  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2717.png",
+    "playerName": "Kevin Durant"
+  },
+  "Devin Booker": {
+    "team": "Phoenix Suns",
+    "salary": "$33,833,400  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17841.png",
+    "playerName": "Devin Booker"
+  },
+  "Deandre Ayton": {
+    "team": "Phoenix Suns",
+    "salary": "$30,913,750  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26967.png",
+    "playerName": "Deandre Ayton"
+  },
+  "Chris Paul": {
+    "team": "Phoenix Suns",
+    "salary": "$28,400,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2609.png",
+    "playerName": "Chris Paul"
+  },
+  "Landry Shamet": {
+    "team": "Phoenix Suns",
+    "salary": "$9,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26992.png",
+    "playerName": "Landry Shamet"
+  },
+  "Cameron Payne": {
+    "team": "Phoenix Suns",
+    "salary": "$6,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17842.png",
+    "playerName": "Cameron Payne"
+  },
+  "Torrey Craig": {
+    "team": "Phoenix Suns",
+    "salary": "$5,121,951  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/24230.png",
+    "playerName": "Torrey Craig"
+  },
+  "Darius Bazley": {
+    "team": "Phoenix Suns",
+    "salary": "$4,264,629  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31581.png",
+    "playerName": "Darius Bazley"
+  },
+  "Bismack Biyombo": {
+    "team": "Phoenix Suns",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/8057.png",
+    "playerName": "Bismack Biyombo"
+  },
+  "T.J. Warren": {
+    "team": "Phoenix Suns",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/15366.png",
+    "playerName": "T.J. Warren"
+  },
+  "Damion Lee": {
+    "team": "Phoenix Suns",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/21063.png",
+    "playerName": "Damion Lee"
+  },
+  "Josh Okogie": {
+    "team": "Phoenix Suns",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26986.png",
+    "playerName": "Josh Okogie"
+  },
+  "Jock Landale": {
+    "team": "Phoenix Suns",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74215.png",
+    "playerName": "Jock Landale"
+  },
+  "Terrence Ross": {
+    "team": "Phoenix Suns",
+    "salary": "$580,373  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10816.png",
+    "playerName": "Terrence Ross"
+  },
+  "Saben Lee": {
+    "team": "Phoenix Suns",
+    "salary": "$105,522  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70680.png",
+    "playerName": "Saben Lee"
+  },
+  "De'Aaron Fox": {
+    "team": "Sacramento Kings",
+    "salary": "$30,351,780  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23600.png",
+    "playerName": "De'Aaron Fox"
+  },
+  "Domantas Sabonis": {
+    "team": "Sacramento Kings",
+    "salary": "$18,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20216.png",
+    "playerName": "Domantas Sabonis"
+  },
+  "Harrison Barnes": {
+    "team": "Sacramento Kings",
+    "salary": "$18,352,273  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/10815.png",
+    "playerName": "Harrison Barnes"
+  },
+  "Kevin Huerter": {
+    "team": "Sacramento Kings",
+    "salary": "$14,508,929  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/26985.png",
+    "playerName": "Kevin Huerter"
+  },
+  "Richaun Holmes": {
+    "team": "Sacramento Kings",
+    "salary": "$11,215,260  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17865.png",
+    "playerName": "Richaun Holmes"
+  },
+  "Malik Monk": {
+    "team": "Sacramento Kings",
+    "salary": "$9,472,219  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23606.png",
+    "playerName": "Malik Monk"
+  },
+  "Keegan Murray": {
+    "team": "Sacramento Kings",
+    "salary": "$8,008,440  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78112.png",
+    "playerName": "Keegan Murray"
+  },
+  "Davion Mitchell": {
+    "team": "Sacramento Kings",
+    "salary": "$4,833,600  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74116.png",
+    "playerName": "Davion Mitchell"
+  },
+  "Terence Davis": {
+    "team": "Sacramento Kings",
+    "salary": "$4,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/32059.png",
+    "playerName": "Terence Davis"
+  },
+  "Alex Len": {
+    "team": "Sacramento Kings",
+    "salary": "$3,918,600  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13318.png",
+    "playerName": "Alex Len"
+  },
+  "Trey Lyles": {
+    "team": "Sacramento Kings",
+    "salary": "$2,625,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/17840.png",
+    "playerName": "Trey Lyles"
+  },
+  "Chimezie Metu": {
+    "team": "Sacramento Kings",
+    "salary": "$1,910,860  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27015.png",
+    "playerName": "Chimezie Metu"
+  },
+  "KZ Okpala": {
+    "team": "Sacramento Kings",
+    "salary": "$1,902,133  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/31591.png",
+    "playerName": "KZ Okpala"
+  },
+  "Matthew Dellavedova": {
+    "team": "Sacramento Kings",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13478.png",
+    "playerName": "Matthew Dellavedova"
+  },
+  "Kessler Edwards": {
+    "team": "Sacramento Kings",
+    "salary": "$1,637,966  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74151.png",
+    "playerName": "Kessler Edwards"
+  },
+  "P.J. Dozier": {
+    "team": "Sacramento Kings",
+    "salary": "$105,522  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23668.png",
+    "playerName": "P.J. Dozier"
+  },
+  "Deonte Burton": {
+    "team": "Sacramento Kings",
+    "salary": "$105,522  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/28767.png",
+    "playerName": "Deonte Burton"
+  },
+  "Pascal Siakam": {
+    "team": "Toronto Raptors",
+    "salary": "$35,448,672  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20232.png",
+    "playerName": "Pascal Siakam"
+  },
+  "Fred VanVleet": {
+    "team": "Toronto Raptors",
+    "salary": "$21,250,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20778.png",
+    "playerName": "Fred VanVleet"
+  },
+  "Gary Trent Jr.": {
+    "team": "Toronto Raptors",
+    "salary": "$17,505,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/27003.png",
+    "playerName": "Gary Trent Jr."
+  },
+  "OG Anunoby": {
+    "team": "Toronto Raptors",
+    "salary": "$17,357,143  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23618.png",
+    "playerName": "OG Anunoby"
+  },
+  "Chris Boucher": {
+    "team": "Toronto Raptors",
+    "salary": "$12,690,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/23671.png",
+    "playerName": "Chris Boucher"
+  },
+  "Jakob Poeltl": {
+    "team": "Toronto Raptors",
+    "salary": "$9,398,148  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20214.png",
+    "playerName": "Jakob Poeltl"
+  },
+  "Thaddeus Young": {
+    "team": "Toronto Raptors",
+    "salary": "$8,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/2658.png",
+    "playerName": "Thaddeus Young"
+  },
+  "Scottie Barnes": {
+    "team": "Toronto Raptors",
+    "salary": "$7,644,600  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74111.png",
+    "playerName": "Scottie Barnes"
+  },
+  "Otto Porter Jr.": {
+    "team": "Toronto Raptors",
+    "salary": "$6,000,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/13316.png",
+    "playerName": "Otto Porter Jr."
+  },
+  "Precious Achiuwa": {
+    "team": "Toronto Raptors",
+    "salary": "$2,840,160  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70662.png",
+    "playerName": "Precious Achiuwa"
+  },
+  "Malachi Flynn": {
+    "team": "Toronto Raptors",
+    "salary": "$2,145,720  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/70671.png",
+    "playerName": "Malachi Flynn"
+  },
+  "Juancho Hernangomez": {
+    "team": "Toronto Raptors",
+    "salary": "$1,836,090  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/20220.png",
+    "playerName": "Juancho Hernangomez"
+  },
+  "Dalano Banton": {
+    "team": "Toronto Raptors",
+    "salary": "$1,563,518  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74153.png",
+    "playerName": "Dalano Banton"
+  },
+  "Christian Koloko": {
+    "team": "Toronto Raptors",
+    "salary": "$1,500,000  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/78131.png",
+    "playerName": "Christian Koloko"
+  },
+  "Joe Wieskamp": {
+    "team": "Toronto Raptors",
+    "salary": "$94,136  ",
+    "headshot": "https://d1dglpr230r57l.cloudfront.net/headshots/nba/74148.png",
+    "playerName": "Joe Wieskamp"
   }
 }

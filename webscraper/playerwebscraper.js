@@ -38,7 +38,7 @@ let teamNames = [
 
 for (let i = 0; i < teamNames.length; i++) {
   let currentTeam = teamNames[i];
-  const url = `https://www.spotrac.com/nba/rankings/2020-21/cap-hit/${currentTeam}`;
+  const url = `https://www.spotrac.com/nba/rankings/2022-23/cap-hit/${currentTeam}`;
 
   axios(url).then((response) => {
     const html = response.data;
@@ -74,6 +74,7 @@ for (let i = 0; i < teamNames.length; i++) {
           .join(" "),
         salary: playerSalary[i],
         headshot: playerHeadshots[i],
+        playerName: playerName,
       };
       // console.log(allPlayers);
     });
@@ -82,7 +83,7 @@ for (let i = 0; i < teamNames.length; i++) {
 
 setTimeout(() => {
   fs.writeFile(
-    "salaryData/playerSalaries/2020PlayerCapHits.json",
+    "salaryData/playerSalaries/playerCapHits2022.json",
     JSON.stringify(allPlayers),
     (err) => {
       if (err) throw err;
