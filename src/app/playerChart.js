@@ -26,17 +26,11 @@ export async function getData(year) {
   );
 
   let data = await response.json();
-  // Fetch data from external API
-
-  // Pass data to the page via props
   return data;
 }
 
 export function PlayerChart(props) {
   ChartJS.register(LinearScale, PointElement, Tooltip, Legend);
-  // if ((props.stat = "winPercentage")) {
-  //   props.stat = "points";
-  // }
   let players;
 
   const getPlayers = (year) => {
@@ -110,10 +104,8 @@ export function PlayerChart(props) {
           display: true,
           text: `${props.year} ${props.stat}`,
         },
-        // beginAtZero: true,
         ticks: {
           color: "#FF4F79",
-          // Include a dollar sign in the ticks
           callback: function (value, index, ticks) {
             if (props.stat === "winPercentage") {
               return "%" + value;
@@ -134,7 +126,6 @@ export function PlayerChart(props) {
         },
         ticks: {
           color: "#FF4F79",
-          // Include a dollar sign in the ticks
           callback: function (value, index, ticks) {
             return "$" + value;
           },
@@ -146,8 +137,6 @@ export function PlayerChart(props) {
         display: false,
         position: "bottom",
         labels: {
-          // usePointStyle: true, // logos
-
           usePointStyle: false,
           pointStyleWidth: 10,
           padding: 5,

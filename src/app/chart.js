@@ -1,5 +1,4 @@
 "use client";
-import react, { useState } from "react";
 import {
   Chart as ChartJS,
   LinearScale,
@@ -7,13 +6,10 @@ import {
   Tooltip,
   Legend,
 } from "chart.js";
-import { withRouter } from "next/router";
 import { Bubble } from "react-chartjs-2";
 import teamSalaryCap2020 from "src/app/salaryData/teamSalaries/TeamSalaryCap2020.json";
 import teamSalaryCap2021 from "src/app/salaryData/teamSalaries/TeamSalaryCap2021.json";
 import teamSalaryCap2022 from "src/app/salaryData/teamSalaries/TeamSalaryCap2022.json";
-
-import { Dropdown } from "@nextui-org/react";
 
 export async function getData(year) {
   let response = await fetch(
@@ -28,9 +24,6 @@ export async function getData(year) {
   );
 
   let data = await response.json();
-  // Fetch data from external API
-
-  // Pass data to the page via props
   return data;
 }
 
@@ -51,6 +44,7 @@ export function Chart(props) {
     }
   };
   getTeams(props.year);
+  console.log(getData(props.year));
 
   getData(props.year).then((response) => {
     response.teamStatsTotals.map((currentTeam, index) => {
@@ -62,6 +56,7 @@ export function Chart(props) {
           current.rebounds = currentTeam.stats.rebounds.reb;
           current.fouls = currentTeam.stats.miscellaneous.fouls;
           current.assists = currentTeam.stats.offense.ast;
+          current.officialImg = currentTeam.team.officialLogoImageSrc;
         }
       });
     });
@@ -69,9 +64,9 @@ export function Chart(props) {
 
   const teamData = teams.map((currentTeam, index) => {
     let logo = "circle";
-    if (currentTeam.logo) {
+    if (currentTeam.officialImg) {
       logo = new Image(50, 50);
-      logo.src = currentTeam.logo;
+      logo.src = currentTeam.officialImg;
     }
 
     return {
@@ -107,10 +102,8 @@ export function Chart(props) {
           display: true,
           text: `${props.year} ${props.stat}`,
         },
-        // beginAtZero: true,
         ticks: {
           color: "#FF4F79",
-          // Include a dollar sign in the ticks
           callback: function (value, index, ticks) {
             if (props.stat === "winPercentage") {
               return "%" + value;
@@ -131,7 +124,6 @@ export function Chart(props) {
         },
         ticks: {
           color: "#FF4F79",
-          // Include a dollar sign in the ticks
           callback: function (value, index, ticks) {
             return "$" + value;
           },
@@ -143,7 +135,7 @@ export function Chart(props) {
         position: "left",
 
         labels: {
-          // usePointStyle: true, // logos
+          display: false,
           usePointStyle: false,
           pointStyleWidth: 10,
           padding: 5,
