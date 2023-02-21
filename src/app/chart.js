@@ -9,12 +9,30 @@ import {
 } from "chart.js";
 import { withRouter } from "next/router";
 import { Bubble } from "react-chartjs-2";
-import axios from "axios";
 import teamSalaryCap2020 from "src/app/salaryData/teamSalaries/TeamSalaryCap2020.json";
 import teamSalaryCap2021 from "src/app/salaryData/teamSalaries/TeamSalaryCap2021.json";
 import teamSalaryCap2022 from "src/app/salaryData/teamSalaries/TeamSalaryCap2022.json";
 
 import { Dropdown } from "@nextui-org/react";
+
+export async function getData(year) {
+  let response = await fetch(
+    `https://api.mysportsfeeds.com/v2.1/pull/nba/${year}/team_stats_totals.json`,
+    {
+      method: "GET",
+      headers: {
+        Authorization:
+          "Basic " + btoa(`4a6c73c1-8cf1-4f49-b901-1ed5ae:MYSPORTSFEEDS`),
+      },
+    }
+  );
+
+  let data = await response.json();
+  // Fetch data from external API
+
+  // Pass data to the page via props
+  return data;
+}
 
 export function Chart(props) {
   ChartJS.register(LinearScale, PointElement, Tooltip, Legend);
@@ -34,24 +52,20 @@ export function Chart(props) {
   };
   getTeams(props.year);
 
-  axios
-    .get(`http://localhost:8000/teamStats/${props.year}`)
-    .then((response) => {
-      console.log(response.data.teamStatsTotals);
-      response.data.teamStatsTotals.map((currentTeam, index) => {
-        let name = `${currentTeam.team.city} ${currentTeam.team.name}`;
+  getData(props.year).then((response) => {
+    response.teamStatsTotals.map((currentTeam, index) => {
+      let name = `${currentTeam.team.city} ${currentTeam.team.name}`;
 
-        teams.filter((current) => {
-          if (current.name === name) {
-            current.totalPointsScored = currentTeam.stats.offense.pts;
-            current.rebounds = currentTeam.stats.rebounds.reb;
-            current.fouls = currentTeam.stats.miscellaneous.fouls;
-            current.assists = currentTeam.stats.offense.ast;
-          }
-        });
+      teams.filter((current) => {
+        if (current.name === name) {
+          current.totalPointsScored = currentTeam.stats.offense.pts;
+          current.rebounds = currentTeam.stats.rebounds.reb;
+          current.fouls = currentTeam.stats.miscellaneous.fouls;
+          current.assists = currentTeam.stats.offense.ast;
+        }
       });
     });
-  console.log("teams:", teams);
+  });
 
   const teamData = teams.map((currentTeam, index) => {
     let logo = "circle";
@@ -83,22 +97,19 @@ export function Chart(props) {
   });
 
   const options = {
-    color: "white",
-    borderColor: "white",
-
     scales: {
       y: {
         grid: {
-          color: "white",
+          color: "#FF4F79",
         },
         title: {
-          color: "white",
+          color: "#FF4F79",
           display: true,
           text: `${props.year} ${props.stat}`,
         },
         // beginAtZero: true,
         ticks: {
-          color: "white",
+          color: "#FF4F79",
           // Include a dollar sign in the ticks
           callback: function (value, index, ticks) {
             if (props.stat === "winPercentage") {
@@ -111,15 +122,15 @@ export function Chart(props) {
       },
       x: {
         grid: {
-          color: "white",
+          color: "#FF4F79",
         },
         title: {
-          color: "white",
+          color: "#FF4F79",
           display: true,
           text: "Salary Cap",
         },
         ticks: {
-          color: "white",
+          color: "#FF4F79",
           // Include a dollar sign in the ticks
           callback: function (value, index, ticks) {
             return "$" + value;
@@ -130,9 +141,9 @@ export function Chart(props) {
     plugins: {
       legend: {
         position: "left",
+
         labels: {
           // usePointStyle: true, // logos
-
           usePointStyle: false,
           pointStyleWidth: 10,
           padding: 5,

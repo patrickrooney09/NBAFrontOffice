@@ -5,13 +5,14 @@
   align-items: center;
   padding: 6rem;
   min-height: 100vh;
-  background-color: black;
-  color: white;
+  background-color: #00060a;
+  color: #ff4f79;
+  font-family: sans-serif;
 }
 
-/* .chart {
-  color: white;
-} */
+main .dropdowns {
+  display: flex;
+}
 
 /*
 .description {

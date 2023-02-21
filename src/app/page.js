@@ -13,7 +13,8 @@ export default function Home() {
   // const { theme } = useTheme();
 
   const [selected, setSelected] = useState("2022-2023-regular");
-  const [stat, setStat] = useState("totalPointsScored");
+  const [stat, setStat] = useState("winPercentage");
+  const [category, setCategory] = useState("team");
 
   const handleYearChange = async (event) => {
     event.preventDefault();
@@ -22,6 +23,11 @@ export default function Home() {
   const handleStatChange = async (event) => {
     event.preventDefault();
     setStat(event.target.value);
+  };
+
+  const handleChange = async (event) => {
+    event.preventDefault();
+    setCategory(event.target.value);
   };
 
   return (
@@ -33,29 +39,42 @@ export default function Home() {
         padding: "$2 $4",
       }}
     >
-      <h1>NBA Front Office</h1>
+      <h1 id="header">NBA Front Office</h1>
+      {category === "players" ? (
+        <PlayerChart className="chart" year={selected} stat={stat} />
+      ) : (
+        <Chart className="chart" year={selected} stat={stat} />
+      )}
       {/* <Chart class="chart" year={selected} stat={stat} /> */}
-      <PlayerChart class="chart" year={selected} stat={stat} />
-      <form id="year">
-        <label htmlFor="year-dropdown">Sort Year: </label>
-        <select name="year-dropdown" onChange={handleYearChange}>
-          <option value="">-</option>
-          <option value="2021-regular">2020-2021</option>
-          <option value="2021-2022-regular">2021-2022</option>
-          <option value="2022-2023-regular">2022-2023</option>
-        </select>
-      </form>
-      <form id="stat">
-        <label htmlFor="stat-dropdown">Sort Stat: </label>
-        <select name="stat-dropdown" onChange={handleStatChange}>
-          <option value="">-</option>
-          <option value="winPercentage">Win Percentage</option>
-          <option value="totalPointsScored">Total Points</option>
-          <option value="rebounds">Rebounds</option>
-          <option value="fouls">Fouls</option>
-          <option value="assists">assists</option>
-        </select>
-      </form>
+      {/* <PlayerChart class="chart" year={selected} stat={stat} /> */}
+      <div className="dropdowns">
+        {" "}
+        <form id="year">
+          <label htmlFor="year-dropdown">Sort Year: </label>
+          <select name="year-dropdown" onChange={handleYearChange}>
+            <option value="2021-regular">2020-2021</option>
+            <option value="2021-2022-regular">2021-2022</option>
+            <option value="2022-2023-regular">2022-2023</option>
+          </select>
+        </form>
+        <form id="stat">
+          <label htmlFor="stat-dropdown">Sort Stat: </label>
+          <select name="stat-dropdown" onChange={handleStatChange}>
+            <option value="winPercentage">Win Percentage</option>
+            <option value="totalPointsScored">Total Points</option>
+            <option value="rebounds">Rebounds</option>
+            <option value="fouls">Fouls</option>
+            <option value="assists">assists</option>
+          </select>
+        </form>
+        <form id="player-or-team">
+          <label htmlFor="stat-dropdown">Sort Stat: </label>
+          <select name="stat-dropdown" onChange={handleChange}>
+            <option value="team">Team</option>
+            <option value="players">Players</option>
+          </select>
+        </form>
+      </div>
     </main>
   );
 }

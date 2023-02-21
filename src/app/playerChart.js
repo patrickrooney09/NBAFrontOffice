@@ -1,5 +1,3 @@
-"use client";
-import react, { useState } from "react";
 import {
   Chart as ChartJS,
   LinearScale,
@@ -9,17 +7,35 @@ import {
 } from "chart.js";
 import { withRouter } from "next/router";
 import { Bubble } from "react-chartjs-2";
-import axios from "axios";
 import playerCapHits2020 from "src/app/salaryData/playerSalaries/PlayerCapHits2020.json";
 import playerCapHits2021 from "src/app/salaryData/playerSalaries/PlayerCapHits2021.json";
 import playerCapHits2022 from "src/app/salaryData/playerSalaries/PlayerCapHits2022.json";
+import { env } from "process";
 
 import { Dropdown } from "@nextui-org/react";
 import { Elsie_Swash_Caps } from "@next/font/google";
 
+export async function getData(year) {
+  let response = await fetch(
+    `https://api.mysportsfeeds.com/v2.1/pull/nba/${year}/player_stats_totals.json`,
+    {
+      method: "GET",
+      headers: {
+        Authorization:
+          "Basic " + btoa(`4a6c73c1-8cf1-4f49-b901-1ed5ae:MYSPORTSFEEDS`),
+      },
+    }
+  );
+
+  let data = await response.json();
+  // Fetch data from external API
+
+  // Pass data to the page via props
+  return data;
+}
+
 export function PlayerChart(props) {
   ChartJS.register(LinearScale, PointElement, Tooltip, Legend);
-
   // if ((props.stat = "winPercentage")) {
   //   props.stat = "points";
   // }
@@ -38,26 +54,24 @@ export function PlayerChart(props) {
   };
   getPlayers(props.year);
 
-  axios
-    .get(`http://localhost:8000/playerStats/${props.year}`)
-    .then((response) => {
-      response.data.playerStatsTotals.map((currentPlayer, index) => {
-        let name = `${currentPlayer.player.firstName} ${currentPlayer.player.lastName}`;
+  getData(props.year).then((response) => {
+    response.playerStatsTotals.map((currentPlayer, index) => {
+      let name = `${currentPlayer.player.firstName} ${currentPlayer.player.lastName}`;
 
-        players.filter((current) => {
-          if (
-            current.playerName === name &&
-            currentPlayer.player.officialImageSrc
-          ) {
-            current.totalPointsScored = currentPlayer.stats.offense.pts;
-            current.rebounds = currentPlayer.stats.rebounds.reb;
-            current.fouls = currentPlayer.stats.miscellaneous.fouls;
-            current.assists = currentPlayer.stats.offense.ast;
-            current.officialImg = currentPlayer.player.officialImageSrc;
-          }
-        });
+      players.filter((current) => {
+        if (
+          current.playerName === name &&
+          currentPlayer.player.officialImageSrc
+        ) {
+          current.totalPointsScored = currentPlayer.stats.offense.pts;
+          current.rebounds = currentPlayer.stats.rebounds.reb;
+          current.fouls = currentPlayer.stats.miscellaneous.fouls;
+          current.assists = currentPlayer.stats.offense.ast;
+          current.officialImg = currentPlayer.player.officialImageSrc;
+        }
       });
     });
+  });
   const playerData = players.map((currentPlayer, index) => {
     let logo = "circle";
     if (currentPlayer.officialImg) {
@@ -88,22 +102,19 @@ export function PlayerChart(props) {
   });
 
   const options = {
-    color: "white",
-    borderColor: "white",
-
     scales: {
       y: {
         grid: {
-          color: "white",
+          color: "#FF4F79",
         },
         title: {
-          color: "white",
+          color: "#FF4F79",
           display: true,
           text: `${props.year} ${props.stat}`,
         },
         // beginAtZero: true,
         ticks: {
-          color: "white",
+          color: "#FF4F79",
           // Include a dollar sign in the ticks
           callback: function (value, index, ticks) {
             if (props.stat === "winPercentage") {
@@ -116,15 +127,15 @@ export function PlayerChart(props) {
       },
       x: {
         grid: {
-          color: "white",
+          color: "#FF4F79",
         },
         title: {
-          color: "white",
+          color: "#FF4F79",
           display: true,
           text: "Salary",
         },
         ticks: {
-          color: "white",
+          color: "#FF4F79",
           // Include a dollar sign in the ticks
           callback: function (value, index, ticks) {
             return "$" + value;
