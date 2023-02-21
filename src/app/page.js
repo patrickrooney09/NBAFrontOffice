@@ -77,7 +77,7 @@ export default function Home() {
           </form>
         )}
         <form id="player-or-team">
-          <label htmlFor="stat-dropdown">Sort Stat: </label>
+          <label htmlFor="stat-dropdown">Sort Category: </label>
           <select name="stat-dropdown" onChange={handleChange}>
             <option value="team">Team</option>
             <option value="players">Players</option>
