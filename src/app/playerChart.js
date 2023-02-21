@@ -10,9 +10,9 @@ import {
 import { withRouter } from "next/router";
 import { Bubble } from "react-chartjs-2";
 import axios from "axios";
-import playerCapHits2020 from "/Users/patrickrooney/NBAFrontOffice/salaryData/playerSalaries/playerCapHits2020.json";
-import playerCapHits2021 from "/Users/patrickrooney/NBAFrontOffice/salaryData/playerSalaries/playerCapHits2021.json";
-import playerCapHits2022 from "/Users/patrickrooney/NBAFrontOffice/salaryData/playerSalaries/playerCapHits2022.json";
+import playerCapHits2020 from "/Users/patrickrooney/NBAFrontOffice/salaryData/playerSalaries/PlayerCapHits2020.json";
+import playerCapHits2021 from "/Users/patrickrooney/NBAFrontOffice/salaryData/playerSalaries/PlayerCapHits2021.json";
+import playerCapHits2022 from "/Users/patrickrooney/NBAFrontOffice/salaryData/playerSalaries/PlayerCapHits2022.json";
 
 import { Dropdown } from "@nextui-org/react";
 import { Elsie_Swash_Caps } from "@next/font/google";
