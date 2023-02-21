@@ -1,3 +1,5 @@
+"use client";
+import react from "react";
 import {
   Chart as ChartJS,
   LinearScale,
@@ -10,10 +12,6 @@ import { Bubble } from "react-chartjs-2";
 import playerCapHits2020 from "src/app/salaryData/playerSalaries/PlayerCapHits2020.json";
 import playerCapHits2021 from "src/app/salaryData/playerSalaries/PlayerCapHits2021.json";
 import playerCapHits2022 from "src/app/salaryData/playerSalaries/PlayerCapHits2022.json";
-import { env } from "process";
-
-import { Dropdown } from "@nextui-org/react";
-import { Elsie_Swash_Caps } from "@next/font/google";
 
 export async function getData(year) {
   let response = await fetch(

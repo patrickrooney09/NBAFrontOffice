@@ -2,7 +2,6 @@
 import { Inter } from "@next/font/google";
 // import { useTheme, Text, Dropdown } from "@nextui-org/react";
 import styles from "./page.module.css";
-import axios from "axios";
 import React, { useState } from "react";
 import { Chart } from "./chart";
 import { PlayerChart } from "./playerChart";
@@ -40,13 +39,13 @@ export default function Home() {
       }}
     >
       <h1 id="header">NBA Front Office</h1>
-      {category === "players" ? (
+      {/* {category === "players" ? (
         <PlayerChart className="chart" year={selected} stat={stat} />
       ) : (
         <Chart className="chart" year={selected} stat={stat} />
-      )}
+      )} */}
       {/* <Chart class="chart" year={selected} stat={stat} /> */}
-      {/* <PlayerChart class="chart" year={selected} stat={stat} /> */}
+      <PlayerChart class="chart" year={selected} stat={stat} />
       <div className="dropdowns">
         {" "}
         <form id="year">
