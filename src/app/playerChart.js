@@ -10,62 +10,67 @@ import {
 import { withRouter } from "next/router";
 import { Bubble } from "react-chartjs-2";
 import axios from "axios";
-import teamSalaryCap2020 from "/Users/patrickrooney/NBAFrontOffice/salaryData/teamSalaries/teamSalaryCap2020.json";
-import teamSalaryCap2021 from "/Users/patrickrooney/NBAFrontOffice/salaryData/teamSalaries/teamSalaryCap2021.json";
-import teamSalaryCap2022 from "/Users/patrickrooney/NBAFrontOffice/salaryData/teamSalaries/teamSalaryCap2022.json";
+import playerCapHits2020 from "/Users/patrickrooney/NBAFrontOffice/salaryData/playerSalaries/playerCapHits2020.json";
+import playerCapHits2021 from "/Users/patrickrooney/NBAFrontOffice/salaryData/playerSalaries/playerCapHits2021.json";
+import playerCapHits2022 from "/Users/patrickrooney/NBAFrontOffice/salaryData/playerSalaries/playerCapHits2022.json";
 
 import { Dropdown } from "@nextui-org/react";
+import { Elsie_Swash_Caps } from "@next/font/google";
 
-export function Chart(props) {
+export function PlayerChart(props) {
   ChartJS.register(LinearScale, PointElement, Tooltip, Legend);
 
-  let teams;
+  // if ((props.stat = "winPercentage")) {
+  //   props.stat = "points";
+  // }
+  let players;
 
-  const getTeams = (year) => {
+  const getPlayers = (year) => {
     if (year === "2021-regular") {
-      teams = Object.values(teamSalaryCap2020);
+      players = Object.values(playerCapHits2020);
     }
     if (year === "2021-2022-regular") {
-      teams = Object.values(teamSalaryCap2021);
+      players = Object.values(playerCapHits2021);
     }
     if (year === "2022-2023-regular") {
-      teams = Object.values(teamSalaryCap2022);
+      players = Object.values(playerCapHits2022);
     }
   };
-  getTeams(props.year);
+  getPlayers(props.year);
 
   axios
-    .get(`http://localhost:8000/teamStats/${props.year}`)
+    .get(`http://localhost:8000/playerStats/${props.year}`)
     .then((response) => {
-      console.log(response.data.teamStatsTotals);
-      response.data.teamStatsTotals.map((currentTeam, index) => {
-        let name = `${currentTeam.team.city} ${currentTeam.team.name}`;
+      response.data.playerStatsTotals.map((currentPlayer, index) => {
+        let name = `${currentPlayer.player.firstName} ${currentPlayer.player.lastName}`;
 
-        teams.filter((current) => {
-          if (current.name === name) {
-            current.totalPointsScored = currentTeam.stats.offense.pts;
-            current.rebounds = currentTeam.stats.rebounds.reb;
-            current.fouls = currentTeam.stats.miscellaneous.fouls;
-            current.assists = currentTeam.stats.offense.ast;
+        players.filter((current) => {
+          if (
+            current.playerName === name &&
+            currentPlayer.player.officialImageSrc
+          ) {
+            current.totalPointsScored = currentPlayer.stats.offense.pts;
+            current.rebounds = currentPlayer.stats.rebounds.reb;
+            current.fouls = currentPlayer.stats.miscellaneous.fouls;
+            current.assists = currentPlayer.stats.offense.ast;
+            current.officialImg = currentPlayer.player.officialImageSrc;
           }
         });
       });
     });
-  console.log("teams:", teams);
-
-  const teamData = teams.map((currentTeam, index) => {
+  const playerData = players.map((currentPlayer, index) => {
     let logo = "circle";
-    if (currentTeam.logo) {
-      logo = new Image(50, 50);
-      logo.src = currentTeam.logo;
+    if (currentPlayer.officialImg) {
+      logo = new Image(30, 30);
+      logo.src = currentPlayer.officialImg;
     }
 
     return {
-      label: currentTeam.name,
+      label: currentPlayer.playerName,
       data: [
         {
           x: Number(
-            currentTeam.totalCap
+            currentPlayer.salary
               .split("")
               .filter((currentElement) => {
                 if (!isNaN(currentElement)) {
@@ -74,7 +79,7 @@ export function Chart(props) {
               })
               .join("")
           ),
-          y: Number(currentTeam[`${props.stat}`]),
+          y: Number(currentPlayer[`${props.stat}`]),
           r: 10,
         },
       ],
@@ -116,7 +121,7 @@ export function Chart(props) {
         title: {
           color: "white",
           display: true,
-          text: "Salary Cap",
+          text: "Salary",
         },
         ticks: {
           color: "white",
@@ -129,7 +134,8 @@ export function Chart(props) {
     },
     plugins: {
       legend: {
-        position: "left",
+        display: false,
+        position: "bottom",
         labels: {
           // usePointStyle: true, // logos
 
@@ -142,7 +148,7 @@ export function Chart(props) {
   };
 
   const data = {
-    datasets: teamData,
+    datasets: playerData,
   };
   return (
     <>
