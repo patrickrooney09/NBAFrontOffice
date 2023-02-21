@@ -9,19 +9,19 @@ const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   const [selected, setSelected] = useState("2022-2023-regular");
-  const [stat, setStat] = useState("winPercentage");
+  const [stat, setStat] = useState("assists");
   const [category, setCategory] = useState("team");
 
-  const handleYearChange = async (event) => {
+  const handleYearChange = (event) => {
     event.preventDefault();
     setSelected(event.target.value);
   };
-  const handleStatChange = async (event) => {
+  const handleStatChange = (event) => {
     event.preventDefault();
     setStat(event.target.value);
   };
 
-  const handleChange = async (event) => {
+  const handleChange = (event) => {
     event.preventDefault();
     setCategory(event.target.value);
   };

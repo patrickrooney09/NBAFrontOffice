@@ -62,7 +62,7 @@ export function Chart(props) {
     });
   });
 
-  const teamData = teams.map((currentTeam, index) => {
+  const teamData = teams?.map((currentTeam, index) => {
     let logo = "circle";
     if (currentTeam.officialImg) {
       logo = new Image(50, 50);
